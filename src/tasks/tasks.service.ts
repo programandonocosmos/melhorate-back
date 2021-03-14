@@ -1,26 +1,35 @@
 import { Injectable, Logger } from '@nestjs/common';
 import { Cron } from '@nestjs/schedule';
 
-const findPhones = () => { }
-const scorePhones = () => { }
-const updatePosts = () => { }
-const findPosts = () => { }
-const rankPhones = () => { }
+import { InjectRepository } from '@nestjs/typeorm';
+import { Repository } from 'typeorm';
+import { Phone } from '../scrapper/phone.entity';
+
+const findPhones = async () => {};
+const scorePhones = async () => {};
+const updatePosts = async () => {};
+const findPosts = async () => {};
+const rankPhones = async () => {};
 
 @Injectable()
 export class TasksService {
-    private readonly logger = new Logger(TasksService.name);
+  constructor(
+    @InjectRepository(Phone)
+    private phonesRepository: Repository<Phone>,
+  ) {}
 
-    @Cron('0 * * * * *')
-    updateAll() {
-        this.logger.log('Updating all our tables!');
+  private readonly logger = new Logger(TasksService.name);
 
-        findPhones();
-        scorePhones();
-        updatePosts();
-        findPosts();
-        rankPhones();
+  @Cron('0 0 * * * *')
+  async updateAll() {
+    this.logger.log('Updating all our tables!');
 
-        this.logger.log('All table are updated!');
-    }
+    await findPhones();
+    await scorePhones();
+    await updatePosts();
+    await findPosts();
+    await rankPhones();
+
+    this.logger.log('All table are updated!');
+  }
 }
