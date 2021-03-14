@@ -1,0 +1,5864 @@
+{
+  "devices": [
+    {
+      "id": 190,
+      "name": "HTC Nexus 9",
+      "description": "NVIDIA Tegra K1 Denver @ 2.5 GHz",
+      "samples": 290,
+      "score": 317,
+      "multicore_score": 553,
+      "icon": "nexus-9",
+      "family": "HTC"
+    },
+    {
+      "id": 207,
+      "name": "Samsung Galaxy S6",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 2860,
+      "score": 226,
+      "multicore_score": 892,
+      "icon": "samsung-galaxy-s6-edge",
+      "family": "Samsung"
+    },
+    {
+      "id": 208,
+      "name": "HTC One M9",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 137,
+      "score": 232,
+      "multicore_score": 548,
+      "icon": "htc-one-m9",
+      "family": "HTC"
+    },
+    {
+      "id": 209,
+      "name": "Samsung Galaxy S6 edge",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 1380,
+      "score": 242,
+      "multicore_score": 918,
+      "icon": "samsung-galaxy-s6-edge",
+      "family": "Samsung"
+    },
+    {
+      "id": 213,
+      "name": "Samsung Galaxy Note 5",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 7839,
+      "score": 239,
+      "multicore_score": 939,
+      "icon": "samsung-galaxy-note-5",
+      "family": "Samsung"
+    },
+    {
+      "id": 214,
+      "name": "OnePlus 2",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 200,
+      "score": 201,
+      "multicore_score": 557,
+      "icon": "oneplus-2",
+      "family": "OnePlus"
+    },
+    {
+      "id": 215,
+      "name": "Huawei Nexus 6P",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 502,
+      "score": 205,
+      "multicore_score": 509,
+      "icon": "huawei-nexus-6p",
+      "family": "Huawei"
+    },
+    {
+      "id": 216,
+      "name": "Samsung Galaxy S6 edge+",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 569,
+      "score": 247,
+      "multicore_score": 936,
+      "icon": "samsung-galaxy-s6-edge",
+      "family": "Samsung"
+    },
+    {
+      "id": 217,
+      "name": "LG Nexus 5X",
+      "description": "Qualcomm Snapdragon 808 @ 1.4 GHz",
+      "samples": 424,
+      "score": 171,
+      "multicore_score": 436,
+      "icon": "lg-nexus-5x",
+      "family": "LG"
+    },
+    {
+      "id": 219,
+      "name": "Samsung Galaxy S7 edge",
+      "description": "Samsung Exynos 8890 @ 1.6 GHz",
+      "samples": 7208,
+      "score": 321,
+      "multicore_score": 1140,
+      "icon": "samsung-galaxy-s7-edge",
+      "family": "Samsung"
+    },
+    {
+      "id": 220,
+      "name": "Samsung Galaxy S7",
+      "description": "Samsung Exynos 8890 @ 1.6 GHz",
+      "samples": 7882,
+      "score": 348,
+      "multicore_score": 1183,
+      "icon": "samsung-galaxy-s7",
+      "family": "Samsung"
+    },
+    {
+      "id": 222,
+      "name": "Sony Xperia Z5",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 435,
+      "score": 223,
+      "multicore_score": 518,
+      "icon": "sony-xperia-z5",
+      "family": "Sony"
+    },
+    {
+      "id": 223,
+      "name": "Motorola Moto X Style",
+      "description": "Qualcomm Snapdragon 808 @ 1.4 GHz",
+      "samples": 65,
+      "score": 226,
+      "multicore_score": 658,
+      "icon": "moto-moto-x-style",
+      "family": "Motorola"
+    },
+    {
+      "id": 224,
+      "name": "HTC 10",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 574,
+      "score": 280,
+      "multicore_score": 739,
+      "icon": "htc-10",
+      "family": "HTC"
+    },
+    {
+      "id": 227,
+      "name": "Samsung Galaxy S7",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 1716,
+      "score": 270,
+      "multicore_score": 713,
+      "icon": "samsung-galaxy-s7",
+      "family": "Samsung"
+    },
+    {
+      "id": 229,
+      "name": "Xiaomi Redmi Note 3",
+      "description": "Qualcomm Snapdragon 650 @ 1.4 GHz",
+      "samples": 976,
+      "score": 259,
+      "multicore_score": 698,
+      "icon": "xiaomi-redmi-note-3",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 230,
+      "name": "OnePlus 3",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 1651,
+      "score": 307,
+      "multicore_score": 765,
+      "icon": "oneplus-3",
+      "family": "OnePlus"
+    },
+    {
+      "id": 231,
+      "name": "Xiaomi Mi 5",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 689,
+      "score": 304,
+      "multicore_score": 748,
+      "icon": "xiaomi-mi-5",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 232,
+      "name": "Samsung Galaxy S7 edge",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 1233,
+      "score": 250,
+      "multicore_score": 718,
+      "icon": "samsung-galaxy-s7-edge",
+      "family": "Samsung"
+    },
+    {
+      "id": 234,
+      "name": "LG G5",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 1047,
+      "score": 309,
+      "multicore_score": 719,
+      "icon": "lg-g5",
+      "family": "LG"
+    },
+    {
+      "id": 236,
+      "name": "Huawei P9",
+      "description": "HiSilicon Kirin 955 @ 1.8 GHz",
+      "samples": 698,
+      "score": 334,
+      "multicore_score": 1000,
+      "icon": "huawei-p9",
+      "family": "Huawei"
+    },
+    {
+      "id": 238,
+      "name": "Xiaomi Mi 4c",
+      "description": "Qualcomm Snapdragon 808 @ 1.4 GHz",
+      "samples": 56,
+      "score": 181,
+      "multicore_score": 448,
+      "icon": "xiaomi-mi-4c",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 241,
+      "name": "Xiaomi Redmi 3s",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 93,
+      "score": 122,
+      "multicore_score": 614,
+      "icon": "xiaomi-redmi-3s",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 242,
+      "name": "Xiaomi Redmi 3",
+      "description": "Qualcomm MSM8939v2 Snapdragon 616 @ 1.5 GHz",
+      "samples": 16,
+      "score": 106,
+      "multicore_score": 529,
+      "icon": "xiaomi-redmi-3",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 244,
+      "name": "Google Pixel XL",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 1.6 GHz",
+      "samples": 905,
+      "score": 308,
+      "multicore_score": 850,
+      "icon": "google-pixel-xl",
+      "family": "Google"
+    },
+    {
+      "id": 245,
+      "name": "Google Pixel",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 1.6 GHz",
+      "samples": 957,
+      "score": 306,
+      "multicore_score": 844,
+      "icon": "google-pixel",
+      "family": "Google"
+    },
+    {
+      "id": 247,
+      "name": "Huawei Honor 8",
+      "description": "HiSilicon Kirin 950 @ 1.8 GHz",
+      "samples": 1056,
+      "score": 331,
+      "multicore_score": 1196,
+      "icon": "huawei-honor-8",
+      "family": "Huawei"
+    },
+    {
+      "id": 249,
+      "name": "Xiaomi MI 5s",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 2.0 GHz",
+      "samples": 567,
+      "score": 305,
+      "multicore_score": 802,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 250,
+      "name": "Lenovo ZUK Z2",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 532,
+      "score": 303,
+      "multicore_score": 743,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 251,
+      "name": "Xiaomi MI MAX",
+      "description": "Qualcomm Snapdragon 650 @ 1.4 GHz",
+      "samples": 404,
+      "score": 256,
+      "multicore_score": 740,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 252,
+      "name": "Huawei Mate 9",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 1041,
+      "score": 374,
+      "multicore_score": 1416,
+      "icon": "huawei-mate-9",
+      "family": "Huawei"
+    },
+    {
+      "id": 253,
+      "name": "Xiaomi Redmi 4",
+      "description": "Qualcomm Snapdragon 430 @ 2.0 GHz",
+      "samples": 61,
+      "score": 171,
+      "multicore_score": 963,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 255,
+      "name": "Huawei P8 lite",
+      "description": "HiSilicon Kirin 620 @ 1.2 GHz",
+      "samples": 28,
+      "score": 103,
+      "multicore_score": 496,
+      "icon": "huawei-p8lite",
+      "family": "Huawei"
+    },
+    {
+      "id": 256,
+      "name": "Xiaomi MI 5s Plus",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 2.2 GHz",
+      "samples": 293,
+      "score": 321,
+      "multicore_score": 803,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 257,
+      "name": "Huawei P9 lite",
+      "description": "HiSilicon Kirin 650 @ 1.7 GHz",
+      "samples": 491,
+      "score": 167,
+      "multicore_score": 789,
+      "icon": "huawei-p9-lite",
+      "family": "Huawei"
+    },
+    {
+      "id": 258,
+      "name": "Motorola Moto Z",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 305,
+      "score": 290,
+      "multicore_score": 727,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 259,
+      "name": "LeEco Le Max 2",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 147,
+      "score": 291,
+      "multicore_score": 796,
+      "icon": "le-eco",
+      "family": "LeEco"
+    },
+    {
+      "id": 260,
+      "name": "Meizu PRO 5",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 7,
+      "score": 237,
+      "multicore_score": 912,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 262,
+      "name": "Huawei Mate 8",
+      "description": "HiSilicon Kirin 950 @ 1.8 GHz",
+      "samples": 265,
+      "score": 331,
+      "multicore_score": 1199,
+      "icon": "huawei-mate-8",
+      "family": "Huawei"
+    },
+    {
+      "id": 266,
+      "name": "ZTE Axon 7",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 288,
+      "score": 312,
+      "multicore_score": 784,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 270,
+      "name": "Sony Xperia Z5 Compact",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 64,
+      "score": 229,
+      "multicore_score": 625,
+      "icon": "sony-xperia-z5-compact",
+      "family": "Sony"
+    },
+    {
+      "id": 272,
+      "name": "LeEco Le Pro3",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 2.2 GHz",
+      "samples": 90,
+      "score": 286,
+      "multicore_score": 798,
+      "icon": "le-eco",
+      "family": "LeEco"
+    },
+    {
+      "id": 274,
+      "name": "Lenovo ZUK Z2 Pro",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 68,
+      "score": 311,
+      "multicore_score": 822,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 275,
+      "name": "Samsung Galaxy S8+",
+      "description": "Samsung Exynos 8895 Octa @ 1.7 GHz",
+      "samples": 8659,
+      "score": 357,
+      "multicore_score": 1396,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 276,
+      "name": "Meizu PRO 6 Plus",
+      "description": "Samsung Exynos 8890 @ 1.5 GHz",
+      "samples": 60,
+      "score": 291,
+      "multicore_score": 929,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 278,
+      "name": "Huawei Honor V9",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 21,
+      "score": 376,
+      "multicore_score": 1512,
+      "icon": "huawei-honor-v9",
+      "family": "Huawei"
+    },
+    {
+      "id": 279,
+      "name": "Motorola Moto Z Play",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 322,
+      "score": 144,
+      "multicore_score": 541,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 283,
+      "name": "LeEco Le 2",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 105,
+      "score": 265,
+      "multicore_score": 793,
+      "icon": "le-eco",
+      "family": "LeEco"
+    },
+    {
+      "id": 284,
+      "name": "Samsung Galaxy Note5 Duos",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 222,
+      "score": 234,
+      "multicore_score": 905,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 285,
+      "name": "Sony Xperia XZ",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 1529,
+      "score": 284,
+      "multicore_score": 699,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 286,
+      "name": "Samsung Galaxy S8",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 3499,
+      "score": 337,
+      "multicore_score": 1442,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 288,
+      "name": "Xiaomi Mi Mix",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 2.2 GHz",
+      "samples": 159,
+      "score": 311,
+      "multicore_score": 773,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 291,
+      "name": "Meizu MX6",
+      "description": "Mediatek MT6797 Helio X20 @ 1.4 GHz",
+      "samples": 16,
+      "score": 228,
+      "multicore_score": 584,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 292,
+      "name": "ZTE Nubia Z11",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 20,
+      "score": 283,
+      "multicore_score": 693,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 293,
+      "name": "Huawei P10 Plus",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 608,
+      "score": 374,
+      "multicore_score": 1378,
+      "icon": "huawei-p10-plus",
+      "family": "Huawei"
+    },
+    {
+      "id": 294,
+      "name": "Huawei P10",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 1519,
+      "score": 375,
+      "multicore_score": 1407,
+      "icon": "huawei-p10",
+      "family": "Huawei"
+    },
+    {
+      "id": 299,
+      "name": "Sony Xperia Z5 Premium",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 187,
+      "score": 229,
+      "multicore_score": 534,
+      "icon": "sony-xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 307,
+      "name": "Sony Xperia Z3+",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 53,
+      "score": 201,
+      "multicore_score": 427,
+      "icon": "sony-xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 308,
+      "name": "LG V20",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 1838,
+      "score": 286,
+      "multicore_score": 636,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 314,
+      "name": "Huawei Mate 9 Pro",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 129,
+      "score": 314,
+      "multicore_score": 1254,
+      "icon": "huawei-mate-9-pro",
+      "family": "Huawei"
+    },
+    {
+      "id": 315,
+      "name": "Huawei P9 Plus",
+      "description": "HiSilicon Kirin 955 @ 1.8 GHz",
+      "samples": 199,
+      "score": 333,
+      "multicore_score": 1059,
+      "icon": "huawei-p9-plus",
+      "family": "Huawei"
+    },
+    {
+      "id": 316,
+      "name": "Motorola Moto G5 Plus",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 1207,
+      "score": 145,
+      "multicore_score": 536,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 318,
+      "name": "Xiaomi Mi Note Pro",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 16,
+      "score": 221,
+      "multicore_score": 532,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 320,
+      "name": "Huawei Honor V8",
+      "description": "HiSilicon Kirin 950 @ 1.8 GHz",
+      "samples": 11,
+      "score": 365,
+      "multicore_score": 1257,
+      "icon": "huawei-honor-v8",
+      "family": "Huawei"
+    },
+    {
+      "id": 321,
+      "name": "Asus Zenfone 3",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 807,
+      "score": 168,
+      "multicore_score": 999,
+      "icon": "asus-zenfone-3",
+      "family": "Asus"
+    },
+    {
+      "id": 322,
+      "name": "Xiaomi Mi Note 2",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 2.2 GHz",
+      "samples": 152,
+      "score": 319,
+      "multicore_score": 770,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 323,
+      "name": "Nextbit Robin",
+      "description": "Qualcomm Snapdragon 808 @ 1.4 GHz",
+      "samples": 31,
+      "score": 180,
+      "multicore_score": 459,
+      "icon": "nextbit",
+      "family": "Nextbit"
+    },
+    {
+      "id": 324,
+      "name": "Sony Xperia X",
+      "description": "Qualcomm Snapdragon 650 @ 1.4 GHz",
+      "samples": 352,
+      "score": 269,
+      "multicore_score": 726,
+      "icon": "xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 328,
+      "name": "Sony Xperia Z5 Dual",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 115,
+      "score": 222,
+      "multicore_score": 509,
+      "icon": "sony-xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 329,
+      "name": "Huawei Honor 5c",
+      "description": "HiSilicon Kirin 650 @ 1.7 GHz",
+      "samples": 53,
+      "score": 166,
+      "multicore_score": 746,
+      "icon": "huawei-honor-5c",
+      "family": "Huawei"
+    },
+    {
+      "id": 330,
+      "name": "LG V10",
+      "description": "Qualcomm Snapdragon 808 @ 1.4 GHz",
+      "samples": 54,
+      "score": 163,
+      "multicore_score": 625,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 331,
+      "name": "Google Pixel C",
+      "description": "NVIDIA Tegra X1 @ 1.9 GHz",
+      "samples": 185,
+      "score": 258,
+      "multicore_score": 896,
+      "icon": "google-pixel-c",
+      "family": "Google"
+    },
+    {
+      "id": 337,
+      "name": "Xiaomi Redmi Note 4X",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 117,
+      "score": 170,
+      "multicore_score": 913,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 338,
+      "name": "Sony Xperia X Performance",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 524,
+      "score": 285,
+      "multicore_score": 719,
+      "icon": "sony-xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 340,
+      "name": "Sony Xperia X Compact",
+      "description": "Qualcomm Snapdragon 650 @ 1.4 GHz",
+      "samples": 457,
+      "score": 268,
+      "multicore_score": 802,
+      "icon": "sony-xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 341,
+      "name": "Asus Zenfone 2 Laser",
+      "description": "Qualcomm Snapdragon 650 @ 1.2 GHz",
+      "samples": 15,
+      "score": 96,
+      "multicore_score": 305,
+      "icon": "asus-zenfone-2-laser",
+      "family": "Asus"
+    },
+    {
+      "id": 343,
+      "name": "Samsung Galaxy A9 Pro",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 172,
+      "score": 227,
+      "multicore_score": 835,
+      "icon": "samsung-galaxy",
+      "family": "Samsung"
+    },
+    {
+      "id": 345,
+      "name": "HTC One A9",
+      "description": "Qualcomm Snapdragon 617 @ 0 MHz",
+      "samples": 31,
+      "score": 126,
+      "multicore_score": 650,
+      "icon": "htc-one",
+      "family": "HTC"
+    },
+    {
+      "id": 350,
+      "name": "Xiaomi MI 6",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 1960,
+      "score": 364,
+      "multicore_score": 1417,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 351,
+      "name": "Asus Zenfone 3 Max",
+      "description": "Mediatek MT6737 @ 1.4 GHz",
+      "samples": 28,
+      "score": 126,
+      "multicore_score": 433,
+      "icon": "asus-zenfone-3-max",
+      "family": "Asus"
+    },
+    {
+      "id": 352,
+      "name": "Samsung Galaxy Tab S2 9.7 (2016)",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 341,
+      "score": 259,
+      "multicore_score": 972,
+      "icon": "samsung-galaxy-tab",
+      "family": "Samsung"
+    },
+    {
+      "id": 354,
+      "name": "Samsung Galaxy S7 Active",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 144,
+      "score": 255,
+      "multicore_score": 716,
+      "icon": "samsung-galaxy-active",
+      "family": "Samsung"
+    },
+    {
+      "id": 357,
+      "name": "Samsung Galaxy Tab S2 8.0",
+      "description": "Samsung Exynos 5433 @ 1.4 GHz",
+      "samples": 99,
+      "score": 235,
+      "multicore_score": 789,
+      "icon": "samsung-galaxy-tab",
+      "family": "Samsung"
+    },
+    {
+      "id": 359,
+      "name": "Motorola Moto X Force",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 30,
+      "score": 237,
+      "multicore_score": 684,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 361,
+      "name": "Samsung Galaxy S6 Active",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 52,
+      "score": 251,
+      "multicore_score": 978,
+      "icon": "samsung-galaxy-active",
+      "family": "Samsung"
+    },
+    {
+      "id": 362,
+      "name": "Sony Xperia Z5 Premium Dual",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 63,
+      "score": 212,
+      "multicore_score": 518,
+      "icon": "sony-xperia",
+      "family": "Sony"
+    },
+    {
+      "id": 364,
+      "name": "Xiaomi Redmi 4A",
+      "description": "Qualcomm Snapdragon 425 @ 1.4 GHz",
+      "samples": 549,
+      "score": 120,
+      "multicore_score": 393,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 369,
+      "name": "Huawei Honor 6X",
+      "description": "HiSilicon Kirin 655 @ 1.7 GHz",
+      "samples": 608,
+      "score": 166,
+      "multicore_score": 771,
+      "icon": "huawei-honor-6x",
+      "family": "Huawei"
+    },
+    {
+      "id": 371,
+      "name": "Huawei MediaPad M3 8.4",
+      "description": "HiSilicon Kirin 950 @ 1.8 GHz",
+      "samples": 605,
+      "score": 332,
+      "multicore_score": 1184,
+      "icon": "huawei-media-pad",
+      "family": "Huawei"
+    },
+    {
+      "id": 374,
+      "name": "Lenovo P2",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 282,
+      "score": 169,
+      "multicore_score": 998,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 375,
+      "name": "Samsung Galaxy S8+",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 2492,
+      "score": 338,
+      "multicore_score": 1434,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 376,
+      "name": "Samsung Galaxy S8",
+      "description": "Samsung Exynos 8895 Octa @ 1.7 GHz",
+      "samples": 15355,
+      "score": 358,
+      "multicore_score": 1437,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 380,
+      "name": "Nokia 3",
+      "description": "Mediatek MT6737 @ 1.2 GHz",
+      "samples": 230,
+      "score": 101,
+      "multicore_score": 338,
+      "icon": "nokia-3",
+      "family": "Nokia"
+    },
+    {
+      "id": 381,
+      "name": "Nokia 5",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 40,
+      "score": 124,
+      "multicore_score": 595,
+      "icon": "nokia-5",
+      "family": "Nokia"
+    },
+    {
+      "id": 382,
+      "name": "Nokia 6",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 197,
+      "score": 124,
+      "multicore_score": 589,
+      "icon": "nokia-6",
+      "family": "Nokia"
+    },
+    {
+      "id": 383,
+      "name": "OnePlus 5",
+      "description": "Qualcomm Snapdragon 835 @ 1.8 GHz",
+      "samples": 41,
+      "score": 364,
+      "multicore_score": 1593,
+      "icon": "android",
+      "family": "OnePlus"
+    },
+    {
+      "id": 384,
+      "name": "Samsung Galaxy A5 (2017)",
+      "description": "Samsung Exynos 7880 @ 1.9 GHz",
+      "samples": 2658,
+      "score": 142,
+      "multicore_score": 922,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 385,
+      "name": "Samsung Galaxy A7 (2017)",
+      "description": "Samsung Exynos 7880 @ 1.9 GHz",
+      "samples": 565,
+      "score": 142,
+      "multicore_score": 882,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 386,
+      "name": "Samsung Galaxy Note 8",
+      "description": "Samsung Exynos 8895 Octa @ 1.7 GHz",
+      "samples": 12195,
+      "score": 360,
+      "multicore_score": 1424,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 387,
+      "name": "Samsung Galaxy Note 8",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 3652,
+      "score": 342,
+      "multicore_score": 1493,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 388,
+      "name": "Google Pixel 2 XL",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 4503,
+      "score": 346,
+      "multicore_score": 1369,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 389,
+      "name": "Google Pixel 2",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 2346,
+      "score": 349,
+      "multicore_score": 1369,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 390,
+      "name": "Samsung Galaxy S9+",
+      "description": "Samsung Exynos 9810 @ 1.8 GHz",
+      "samples": 820,
+      "score": 597,
+      "multicore_score": 1910,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 391,
+      "name": "Samsung Galaxy S9+",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 6488,
+      "score": 473,
+      "multicore_score": 2033,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 392,
+      "name": "Samsung Galaxy S9",
+      "description": "Samsung Exynos 9810 @ 1.8 GHz",
+      "samples": 628,
+      "score": 566,
+      "multicore_score": 1813,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 393,
+      "name": "Samsung Galaxy S9",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 5418,
+      "score": 466,
+      "multicore_score": 1950,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 394,
+      "name": "LG G6",
+      "description": "Qualcomm MSM8996 Pro-AB Snapdragon 821 @ 2.2 GHz",
+      "samples": 3313,
+      "score": 276,
+      "multicore_score": 665,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 396,
+      "name": "Huawei Honor 9",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 1043,
+      "score": 377,
+      "multicore_score": 1518,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 397,
+      "name": "Huawei Mate 10 Pro",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 3009,
+      "score": 349,
+      "multicore_score": 1445,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 398,
+      "name": "Huawei P8 lite (2017)",
+      "description": "HiSilicon Kirin 655 @ 1.7 GHz",
+      "samples": 650,
+      "score": 170,
+      "multicore_score": 825,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 399,
+      "name": "Sony Xperia XZ Premium",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 1908,
+      "score": 369,
+      "multicore_score": 1443,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 400,
+      "name": "HTC U11",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 826,
+      "score": 380,
+      "multicore_score": 1452,
+      "icon": "htc",
+      "family": "HTC"
+    },
+    {
+      "id": 401,
+      "name": "OnePlus 5T",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 4833,
+      "score": 385,
+      "multicore_score": 1642,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 403,
+      "name": "Xiaomi Mi A1",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 3335,
+      "score": 168,
+      "multicore_score": 989,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 404,
+      "name": "OnePlus 3T",
+      "description": "Qualcomm Snapdragon 821 @ 2.2 GHz",
+      "samples": 429,
+      "score": 314,
+      "multicore_score": 746,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 406,
+      "name": "Xiaomi Redmi 4X",
+      "description": "Qualcomm Snapdragon 435 @ 0 MHz",
+      "samples": 86,
+      "score": 123,
+      "multicore_score": 560,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 408,
+      "name": "OnePlus 6",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 12129,
+      "score": 506,
+      "multicore_score": 2180,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 411,
+      "name": "Motorola Moto G5S Plus",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 1224,
+      "score": 146,
+      "multicore_score": 558,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 412,
+      "name": "Xiaomi Mi Max 2",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 653,
+      "score": 169,
+      "multicore_score": 954,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 413,
+      "name": "Essential PH-1",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 748,
+      "score": 377,
+      "multicore_score": 1525,
+      "icon": "essential",
+      "family": "Essential"
+    },
+    {
+      "id": 415,
+      "name": "Xiaomi Mi Mix 2",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 1462,
+      "score": 371,
+      "multicore_score": 1443,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 416,
+      "name": "Xiaomi Mi Note 3",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 541,
+      "score": 327,
+      "multicore_score": 1359,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 417,
+      "name": "Xiaomi Mix 2S",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 2680,
+      "score": 455,
+      "multicore_score": 1853,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 419,
+      "name": "Huawei Mate 10 Lite",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 1319,
+      "score": 189,
+      "multicore_score": 835,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 420,
+      "name": "Huawei P10 Lite",
+      "description": "HiSilicon Kirin 658 @ 1.7 GHz",
+      "samples": 1265,
+      "score": 185,
+      "multicore_score": 820,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 421,
+      "name": "Xiaomi Mi 8",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 7094,
+      "score": 450,
+      "multicore_score": 1894,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 422,
+      "name": "Xiaomi Redmi Note 5 Pro",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 3754,
+      "score": 272,
+      "multicore_score": 1103,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 423,
+      "name": "Motorola Moto Z2 Play",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 509,
+      "score": 158,
+      "multicore_score": 590,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 424,
+      "name": "ZTE Nubia Z17",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 41,
+      "score": 366,
+      "multicore_score": 1396,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 425,
+      "name": "Meizu M6 Note",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 217,
+      "score": 168,
+      "multicore_score": 974,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 427,
+      "name": "Huawei Honor 8 Pro",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 327,
+      "score": 377,
+      "multicore_score": 1484,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 428,
+      "name": "Samsung Galaxy A8 (2018)",
+      "description": "Samsung Exynos 7885 Octa @ 1.6 GHz",
+      "samples": 2870,
+      "score": 308,
+      "multicore_score": 985,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 432,
+      "name": "Huawei P20 Pro",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 5236,
+      "score": 355,
+      "multicore_score": 1487,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 433,
+      "name": "Samsung Galaxy Tab S3",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 851,
+      "score": 284,
+      "multicore_score": 804,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 434,
+      "name": "Meizu M5 Note",
+      "description": "Mediatek MT6755 Helio P10 @ 1.0 GHz",
+      "samples": 13,
+      "score": 90,
+      "multicore_score": 670,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 436,
+      "name": "Huawei Nova 2i",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 589,
+      "score": 184,
+      "multicore_score": 765,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 439,
+      "name": "LG V30",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 3104,
+      "score": 362,
+      "multicore_score": 1465,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 440,
+      "name": "Huawei Honor View 10",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 687,
+      "score": 346,
+      "multicore_score": 1398,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 442,
+      "name": "Motorola Moto X4",
+      "description": "Qualcomm Snapdragon 630 @ 2.2 GHz",
+      "samples": 961,
+      "score": 174,
+      "multicore_score": 957,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 443,
+      "name": "Huawei Mate 10",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 978,
+      "score": 345,
+      "multicore_score": 1419,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 444,
+      "name": "Nokia 7 Plus",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 1278,
+      "score": 329,
+      "multicore_score": 1361,
+      "icon": "nokia",
+      "family": "Nokia"
+    },
+    {
+      "id": 446,
+      "name": "Sony Xperia XZ1 Compact",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 612,
+      "score": 378,
+      "multicore_score": 1601,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 447,
+      "name": "Xiaomi Redmi 5",
+      "description": "Qualcomm Snapdragon 450 @ 2.0 GHz",
+      "samples": 23,
+      "score": 146,
+      "multicore_score": 830,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 448,
+      "name": "HTC U Ultra",
+      "description": "Qualcomm Snapdragon 821 @ 2.0 GHz",
+      "samples": 260,
+      "score": 301,
+      "multicore_score": 778,
+      "icon": "htc",
+      "family": "HTC"
+    },
+    {
+      "id": 450,
+      "name": "Razer Phone",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 257,
+      "score": 385,
+      "multicore_score": 1680,
+      "icon": "razer",
+      "family": "Razer"
+    },
+    {
+      "id": 451,
+      "name": "Lenovo K8 Note",
+      "description": "Mediatek Helio X23 @ 1.4 GHz",
+      "samples": 131,
+      "score": 214,
+      "multicore_score": 950,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 452,
+      "name": "Huawei P20 Lite",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 3655,
+      "score": 190,
+      "multicore_score": 876,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 454,
+      "name": "Nokia 8",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 1376,
+      "score": 374,
+      "multicore_score": 1533,
+      "icon": "nokia",
+      "family": "Nokia"
+    },
+    {
+      "id": 457,
+      "name": "LeEco Coolpad Cool1 dual",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 54,
+      "score": 262,
+      "multicore_score": 752,
+      "icon": "coolpad",
+      "family": "LeEco"
+    },
+    {
+      "id": 458,
+      "name": "Smartisan Nut Pro 2",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 23,
+      "score": 335,
+      "multicore_score": 1393,
+      "icon": "smartisan",
+      "family": "Smartisan"
+    },
+    {
+      "id": 460,
+      "name": "Oppo F7",
+      "description": "Mediatek MT6771 Helio P60 @ 2.0 GHz",
+      "samples": 846,
+      "score": 287,
+      "multicore_score": 1283,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 461,
+      "name": "Samsung Galaxy C9 Pro",
+      "description": "Qualcomm Snapdragon 653 @ 1.4 GHz",
+      "samples": 398,
+      "score": 218,
+      "multicore_score": 935,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 462,
+      "name": "Sony Xperia XZ1",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 1613,
+      "score": 365,
+      "multicore_score": 1425,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 463,
+      "name": "Samsung Galaxy A8+ (2018)",
+      "description": "Samsung Exynos 7885 Octa @ 1.6 GHz",
+      "samples": 973,
+      "score": 296,
+      "multicore_score": 938,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 464,
+      "name": "Meizu Pro 7",
+      "description": "Mediatek MT6799 Helio X30 @ 1.9 GHz",
+      "samples": 8,
+      "score": 277,
+      "multicore_score": 1118,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 465,
+      "name": "Doogee Mix",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 35,
+      "score": 176,
+      "multicore_score": 824,
+      "icon": "doogee",
+      "family": "Doogee"
+    },
+    {
+      "id": 466,
+      "name": "Huawei Honor 7X",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 680,
+      "score": 190,
+      "multicore_score": 867,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 469,
+      "name": "OPPO R11",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 6,
+      "score": 321,
+      "multicore_score": 1382,
+      "icon": "oppo",
+      "family": "OPPO"
+    },
+    {
+      "id": 470,
+      "name": "Meizu Pro 7 Plus",
+      "description": "Mediatek MT6799 Helio X30 @ 1.9 GHz",
+      "samples": 135,
+      "score": 289,
+      "multicore_score": 1194,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 471,
+      "name": "Lenovo K6 Power",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 109,
+      "score": 106,
+      "multicore_score": 411,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 472,
+      "name": "Samsung Galaxy C7",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 79,
+      "score": 164,
+      "multicore_score": 984,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 473,
+      "name": "Huawei Honor V8 Max",
+      "description": "HiSilicon Kirin 955 @ 1.8 GHz",
+      "samples": 9,
+      "score": 371,
+      "multicore_score": 1341,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 474,
+      "name": "Asus Zenfone Max Pro (M1)",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 4852,
+      "score": 272,
+      "multicore_score": 1123,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 476,
+      "name": "Xiaomi Redmi 5A",
+      "description": "Qualcomm Snapdragon 425 @ 1.4 GHz",
+      "samples": 821,
+      "score": 123,
+      "multicore_score": 399,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 478,
+      "name": "ZTE Axon 7 Mini",
+      "description": "Qualcomm Snapdragon 617 @ 0 MHz",
+      "samples": 17,
+      "score": 131,
+      "multicore_score": 490,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 481,
+      "name": "Huawei Honor 10",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 2483,
+      "score": 331,
+      "multicore_score": 1303,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 482,
+      "name": "Huawei Nova",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 123,
+      "score": 171,
+      "multicore_score": 947,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 483,
+      "name": "ZTE Blade Z Max",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 38,
+      "score": 123,
+      "multicore_score": 575,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 484,
+      "name": "Asus Zenpad 3S 10",
+      "description": "Mediatek MT8176 @ 1.7 GHz",
+      "samples": 170,
+      "score": 309,
+      "multicore_score": 689,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 485,
+      "name": "Sony Xperia XZs",
+      "description": "Qualcomm Snapdragon 820 @ 1.6 GHz",
+      "samples": 117,
+      "score": 281,
+      "multicore_score": 687,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 486,
+      "name": "Huawei P Smart",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 1353,
+      "score": 189,
+      "multicore_score": 850,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 492,
+      "name": "Huawei P20",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 2904,
+      "score": 351,
+      "multicore_score": 1479,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 493,
+      "name": "Lenovo Vibe K5 Plus",
+      "description": "Qualcomm MSM8939v2 Snapdragon 616 @ 1.5 GHz",
+      "samples": 7,
+      "score": 107,
+      "multicore_score": 382,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 497,
+      "name": "Lenovo K6 Note",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 73,
+      "score": 120,
+      "multicore_score": 617,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 500,
+      "name": "Asus Zenfone 5 Max",
+      "description": "Qualcomm Snapdragon 660 @ 1.6 GHz",
+      "samples": 990,
+      "score": 282,
+      "multicore_score": 1179,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 501,
+      "name": "Qihoo 360 N6 Pro",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 20,
+      "score": 311,
+      "multicore_score": 1357,
+      "icon": "qihoo-360",
+      "family": "Qihoo"
+    },
+    {
+      "id": 502,
+      "name": "Oppo F3",
+      "description": "Mediatek MT6750 @ 1.5 GHz",
+      "samples": 23,
+      "score": 138,
+      "multicore_score": 670,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 503,
+      "name": "Motorola Moto G5S",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 278,
+      "score": 104,
+      "multicore_score": 374,
+      "icon": "motorola ",
+      "family": "Motorola"
+    },
+    {
+      "id": 506,
+      "name": "Nokia 6.1",
+      "description": "Qualcomm Snapdragon 630 @ 2.2 GHz",
+      "samples": 961,
+      "score": 174,
+      "multicore_score": 951,
+      "icon": "nokia",
+      "family": "Nokia"
+    },
+    {
+      "id": 510,
+      "name": "Lenovo K8 Plus",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 273,
+      "score": 172,
+      "multicore_score": 767,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 512,
+      "name": "Xiaomi Redmi 4 Prime",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 16,
+      "score": 170,
+      "multicore_score": 945,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 514,
+      "name": "Xiaomi Redmi Note 5A",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 279,
+      "score": 123,
+      "multicore_score": 470,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 520,
+      "name": "Motorola Moto Z2 Force",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 858,
+      "score": 376,
+      "multicore_score": 1572,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 523,
+      "name": "Meizu S6",
+      "description": "Samsung Exynos 7885 Octa @ 1.6 GHz",
+      "samples": 12,
+      "score": 282,
+      "multicore_score": 771,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 526,
+      "name": "Asus Zenfone 4 Max",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 223,
+      "score": 122,
+      "multicore_score": 479,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 530,
+      "name": "Xiaomi Mi A2",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 575,
+      "score": 330,
+      "multicore_score": 1252,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 531,
+      "name": "Sony Xperia XA",
+      "description": "Mediatek MT6755 Helio P10 @ 0 MHz",
+      "samples": 81,
+      "score": 154,
+      "multicore_score": 613,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 532,
+      "name": "Xiaomi Mi 5c",
+      "description": "Xiaomi Surge S1 @ 1.4 GHz",
+      "samples": 14,
+      "score": 146,
+      "multicore_score": 659,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 536,
+      "name": "Huawei Honor 9 Lite",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 1217,
+      "score": 190,
+      "multicore_score": 849,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 538,
+      "name": "LG G7 ThinQ",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 5919,
+      "score": 477,
+      "multicore_score": 1938,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 540,
+      "name": "Sony Xperia XA1",
+      "description": "Mediatek Helio P20 MT6757 @ 1.6 GHz",
+      "samples": 230,
+      "score": 167,
+      "multicore_score": 828,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 542,
+      "name": "Xiaomi Black Shark",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 85,
+      "score": 415,
+      "multicore_score": 1842,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 543,
+      "name": "Vivo V9",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 556,
+      "score": 184,
+      "multicore_score": 1021,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 560,
+      "name": "Vivo V7+",
+      "description": "Qualcomm Snapdragon 450 @ 1.8 GHz",
+      "samples": 198,
+      "score": 148,
+      "multicore_score": 866,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 562,
+      "name": "ZTE Trek 2 ",
+      "description": "Qualcomm Snapdragon 617 @ 1.5 GHz",
+      "samples": 19,
+      "score": 134,
+      "multicore_score": 665,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 565,
+      "name": "Vivo X20A",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 5,
+      "score": 330,
+      "multicore_score": 1450,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 570,
+      "name": "Oppo Realme 1",
+      "description": "Mediatek MT6771 Helio P60 @ 2.0 GHz",
+      "samples": 910,
+      "score": 282,
+      "multicore_score": 1290,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 571,
+      "name": "Vernee Thor",
+      "description": "Mediatek MT6753 @ 1.3 GHz",
+      "samples": 12,
+      "score": 115,
+      "multicore_score": 609,
+      "icon": "vernee",
+      "family": "Vernee"
+    },
+    {
+      "id": 572,
+      "name": "Samsung Galaxy C7 Pro",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 205,
+      "score": 177,
+      "multicore_score": 1032,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 575,
+      "name": "Huawei Honor 8 Lite",
+      "description": "HiSilicon Kirin 655 @ 1.7 GHz",
+      "samples": 117,
+      "score": 171,
+      "multicore_score": 831,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 578,
+      "name": "Asus Zenfone 4",
+      "description": "Qualcomm Snapdragon 630 @ 2.2 GHz",
+      "samples": 249,
+      "score": 172,
+      "multicore_score": 986,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 579,
+      "name": "Xiaomi Mi 8 SE",
+      "description": "Qualcomm Snapdragon 710 @ 1.7 GHz",
+      "samples": 483,
+      "score": 380,
+      "multicore_score": 1405,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 586,
+      "name": "Huawei Nova Lite",
+      "description": "HiSilicon Kirin 655 @ 1.7 GHz",
+      "samples": 80,
+      "score": 169,
+      "multicore_score": 830,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 588,
+      "name": "Wileyfox Swift",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 15,
+      "score": 97,
+      "multicore_score": 318,
+      "icon": "wileyfox",
+      "family": "Wileyfox"
+    },
+    {
+      "id": 590,
+      "name": "Lenovo Yogabook YB1-X90F",
+      "description": "Intel Atom x5-Z8550 @ 2.4 GHz",
+      "samples": 42,
+      "score": 237,
+      "multicore_score": 805,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 591,
+      "name": "Lenovo Vibe K6",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 26,
+      "score": 103,
+      "multicore_score": 377,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 605,
+      "name": "HTC 10 evo",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 29,
+      "score": 179,
+      "multicore_score": 550,
+      "icon": "htc",
+      "family": "HTC"
+    },
+    {
+      "id": 606,
+      "name": "Maze Alpha",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 6,
+      "score": 175,
+      "multicore_score": 663,
+      "icon": "maze",
+      "family": "Maze"
+    },
+    {
+      "id": 611,
+      "name": "Asus Zenpad Z8",
+      "description": "Qualcomm Snapdragon 650 @ 1.4 GHz",
+      "samples": 138,
+      "score": 252,
+      "multicore_score": 718,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 613,
+      "name": "Vivo V5 Plus",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 90,
+      "score": 170,
+      "multicore_score": 975,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 616,
+      "name": "ZTE Nubia Z17 Mini",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 10,
+      "score": 239,
+      "multicore_score": 702,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 619,
+      "name": "Samsung Galaxy C5 Pro",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 35,
+      "score": 171,
+      "multicore_score": 955,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 624,
+      "name": "Vivo NEX S",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 25,
+      "score": 493,
+      "multicore_score": 2259,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 626,
+      "name": "Sony Xperia XA1 Ultra",
+      "description": "Mediatek Helio P20 MT6757 @ 1.6 GHz",
+      "samples": 190,
+      "score": 168,
+      "multicore_score": 838,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 628,
+      "name": "Asus Zenfone 3 Zoom",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 57,
+      "score": 168,
+      "multicore_score": 1000,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 629,
+      "name": "Vernee Mix 2",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 38,
+      "score": 184,
+      "multicore_score": 689,
+      "icon": "vernee",
+      "family": "Vernee"
+    },
+    {
+      "id": 630,
+      "name": "Vivo V5s",
+      "description": "Mediatek MT6750 @ 1.5 GHz",
+      "samples": 152,
+      "score": 118,
+      "multicore_score": 479,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 634,
+      "name": "Sony Xperia Z4",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 123,
+      "score": 237,
+      "multicore_score": 554,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 638,
+      "name": "Wileyfox Swift 2 Plus",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 15,
+      "score": 123,
+      "multicore_score": 606,
+      "icon": "wileyfox",
+      "family": "Wileyfox"
+    },
+    {
+      "id": 642,
+      "name": "Samsung Galaxy S8 Active",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 231,
+      "score": 336,
+      "multicore_score": 1407,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 644,
+      "name": "Lenovo Yoga Tab 3 Plus",
+      "description": "Qualcomm Snapdragon 625 @ 1.4 GHz",
+      "samples": 49,
+      "score": 238,
+      "multicore_score": 733,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 645,
+      "name": "Huawei Nova Plus",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 25,
+      "score": 170,
+      "multicore_score": 931,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 650,
+      "name": "Xiaomi Mi Pad 3",
+      "description": "Mediatek MT8176 @ 1.7 GHz",
+      "samples": 25,
+      "score": 313,
+      "multicore_score": 668,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 652,
+      "name": "Motorola Moto G6 Plus",
+      "description": "Qualcomm Snapdragon 630 @ 2.2 GHz",
+      "samples": 637,
+      "score": 174,
+      "multicore_score": 952,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 654,
+      "name": "Huawei Mate 9 Lite",
+      "description": "HiSilicon Kirin 655 @ 1.7 GHz",
+      "samples": 21,
+      "score": 166,
+      "multicore_score": 777,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 657,
+      "name": "Sony Xperia XZ2",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 1129,
+      "score": 506,
+      "multicore_score": 2099,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 658,
+      "name": "Asus Zenfone Max Plus",
+      "description": "Mediatek MT6750 @ 1.5 GHz",
+      "samples": 61,
+      "score": 122,
+      "multicore_score": 616,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 667,
+      "name": "Lenovo Tab3 8 Plus",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 19,
+      "score": 175,
+      "multicore_score": 1036,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 668,
+      "name": "Sony Xperia XZ2 Compact",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 237,
+      "score": 508,
+      "multicore_score": 2165,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 676,
+      "name": "BQ Aquaris X",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 51,
+      "score": 181,
+      "multicore_score": 1046,
+      "icon": "bq",
+      "family": "BQ"
+    },
+    {
+      "id": 677,
+      "name": "Doogee S60",
+      "description": "Mediatek Helio P20 MT6757 @ 2.6 GHz",
+      "samples": 37,
+      "score": 171,
+      "multicore_score": 852,
+      "icon": "doogee",
+      "family": "Doogee"
+    },
+    {
+      "id": 681,
+      "name": "ZTE Max XL",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 17,
+      "score": 124,
+      "multicore_score": 591,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 682,
+      "name": "Bluboo S1",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 14,
+      "score": 173,
+      "multicore_score": 670,
+      "icon": "bluboo",
+      "family": "Bluboo"
+    },
+    {
+      "id": 683,
+      "name": "Vivo V7",
+      "description": "Qualcomm Snapdragon 450 @ 1.8 GHz",
+      "samples": 178,
+      "score": 148,
+      "multicore_score": 888,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 684,
+      "name": "UMi Z",
+      "description": "Mediatek Helio X27 @ 1.5 GHz",
+      "samples": 11,
+      "score": 281,
+      "multicore_score": 974,
+      "icon": "umidigi",
+      "family": "UMi"
+    },
+    {
+      "id": 685,
+      "name": "Huawei Nova 2s",
+      "description": "Hisilicon Kirin 960 @ 1.8 GHz",
+      "samples": 12,
+      "score": 373,
+      "multicore_score": 1469,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 686,
+      "name": "Asus Zenfone 3 Ultra",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 26,
+      "score": 254,
+      "multicore_score": 947,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 695,
+      "name": "Samsung Galaxy A8 (2016)",
+      "description": "Samsung Exynos 7420 @ 1.5 GHz",
+      "samples": 80,
+      "score": 255,
+      "multicore_score": 979,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 699,
+      "name": "HTC U11+",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 214,
+      "score": 382,
+      "multicore_score": 1467,
+      "icon": "htc",
+      "family": "HTC"
+    },
+    {
+      "id": 703,
+      "name": "Sharp Aquos S2",
+      "description": "Qualcomm Snapdragon 630 @ 2.2 GHz",
+      "samples": 33,
+      "score": 171,
+      "multicore_score": 977,
+      "icon": "sharp",
+      "family": "Sharp"
+    },
+    {
+      "id": 709,
+      "name": "Asus Zenpad Z10",
+      "description": "Qualcomm Snapdragon 650 @ 1.4 GHz",
+      "samples": 19,
+      "score": 276,
+      "multicore_score": 833,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 715,
+      "name": "Huawei Mate SE",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 97,
+      "score": 193,
+      "multicore_score": 880,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 719,
+      "name": "Asus Zenpad 8.0",
+      "description": "MediaTek MT8163 V/B @ 1.3 GHz",
+      "samples": 57,
+      "score": 119,
+      "multicore_score": 417,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 721,
+      "name": "Huawei Nova 2",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 67,
+      "score": 191,
+      "multicore_score": 872,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 725,
+      "name": "BQ Aquaris X Pro",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 57,
+      "score": 182,
+      "multicore_score": 1050,
+      "icon": "bq",
+      "family": "BQ"
+    },
+    {
+      "id": 734,
+      "name": "10.or G",
+      "description": "Qualcomm Snapdragon 626 @ 2.2 GHz",
+      "samples": 187,
+      "score": 181,
+      "multicore_score": 1051,
+      "icon": "10.or",
+      "family": "10.or"
+    },
+    {
+      "id": 740,
+      "name": "Meizu 15 Plus",
+      "description": "Samsung Exynos 8895 Octa @ 1.7 GHz",
+      "samples": 28,
+      "score": 360,
+      "multicore_score": 1389,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 747,
+      "name": "Sony Xperia L1",
+      "description": "Mediatek MT6737T @ 1.4 GHz",
+      "samples": 54,
+      "score": 124,
+      "multicore_score": 413,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 752,
+      "name": "Sony Xperia XA Dual",
+      "description": "Mediatek MT6755 Helio P10 @ 0 MHz",
+      "samples": 16,
+      "score": 155,
+      "multicore_score": 585,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 755,
+      "name": "Blackview BV8000 Pro",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 11,
+      "score": 180,
+      "multicore_score": 888,
+      "icon": "blackview",
+      "family": "Blackview"
+    },
+    {
+      "id": 758,
+      "name": "Huawei Nova 2 Plus",
+      "description": "HiSilicon Kirin 659 @ 1.7 GHz",
+      "samples": 92,
+      "score": 191,
+      "multicore_score": 865,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 768,
+      "name": "ZTE Blade X Max",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 10,
+      "score": 123,
+      "multicore_score": 562,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 773,
+      "name": "HTC U12+",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 278,
+      "score": 506,
+      "multicore_score": 2041,
+      "icon": "htc",
+      "family": "HTC"
+    },
+    {
+      "id": 779,
+      "name": "Gionee A1",
+      "description": "Mediatek MT6755 Helio P10 @ 0 MHz",
+      "samples": 5,
+      "score": 152,
+      "multicore_score": 605,
+      "icon": "gionee",
+      "family": "Gionee"
+    },
+    {
+      "id": 787,
+      "name": "Lenovo ZUK Edge",
+      "description": "Qualcomm Snapdragon 821 @ 2.2 GHz",
+      "samples": 6,
+      "score": 300,
+      "multicore_score": 819,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 796,
+      "name": "ZTE Nubia Z17S",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 58,
+      "score": 315,
+      "multicore_score": 1197,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 799,
+      "name": "Sony Xperia Z4 Tablet (Wi-Fi)",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 36,
+      "score": 257,
+      "multicore_score": 718,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 803,
+      "name": "NVIDIA SHIELD Android TV",
+      "description": "NVIDIA Tegra X1 @ 2.0 GHz",
+      "samples": 66,
+      "score": 279,
+      "multicore_score": 957,
+      "icon": "nvidia-shield-android-tv",
+      "family": "NVIDIA"
+    },
+    {
+      "id": 813,
+      "name": "Asus Zenfone 5z",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 2349,
+      "score": 511,
+      "multicore_score": 2163,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 817,
+      "name": "Xiaomi Redmi S2",
+      "description": "Qualcomm Snapdragon 625 @ 2.0 GHz",
+      "samples": 738,
+      "score": 151,
+      "multicore_score": 625,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 826,
+      "name": "Meizu M6",
+      "description": "Mediatek MT6750 @ 1.0 GHz",
+      "samples": 27,
+      "score": 118,
+      "multicore_score": 494,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 829,
+      "name": "Vernee Mars Pro",
+      "description": "Mediatek MT6757 Helio P25 @ 1.7 GHz",
+      "samples": 11,
+      "score": 181,
+      "multicore_score": 956,
+      "icon": "vernee",
+      "family": "Vernee"
+    },
+    {
+      "id": 832,
+      "name": "Smartron srt.phone",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 7,
+      "score": 170,
+      "multicore_score": 363,
+      "icon": "smartron",
+      "family": "Smartron"
+    },
+    {
+      "id": 834,
+      "name": "Google Pixel 3 XL",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 3984,
+      "score": 474,
+      "multicore_score": 1821,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 835,
+      "name": "Google Pixel 3",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 4277,
+      "score": 459,
+      "multicore_score": 1706,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 836,
+      "name": "Samsung Galaxy Note 9",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 8374,
+      "score": 480,
+      "multicore_score": 2019,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 837,
+      "name": "Samsung Galaxy Note 9",
+      "description": "Samsung Exynos 9810 @ 1.8 GHz",
+      "samples": 997,
+      "score": 590,
+      "multicore_score": 1877,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 839,
+      "name": "Huawei Mate 20 Pro",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 9228,
+      "score": 682,
+      "multicore_score": 2282,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 840,
+      "name": "Samsung Galaxy Tab S2 8.0",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 204,
+      "score": 251,
+      "multicore_score": 864,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 841,
+      "name": "OnePlus 6T",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 10049,
+      "score": 509,
+      "multicore_score": 2256,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 842,
+      "name": "Huawei Honor Play",
+      "description": "HiSilicon Kirin 970 @ 1.8 GHz",
+      "samples": 3652,
+      "score": 362,
+      "multicore_score": 1459,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 843,
+      "name": "Xiaomi Redmi Note 5 AI",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 3622,
+      "score": 272,
+      "multicore_score": 1109,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 844,
+      "name": "Xiaomi Pocophone F1",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 28365,
+      "score": 458,
+      "multicore_score": 1888,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 845,
+      "name": "Xiaomi Poco F1",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 47665,
+      "score": 427,
+      "multicore_score": 1740,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 846,
+      "name": "Nokia 6.1 Plus",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 1310,
+      "score": 269,
+      "multicore_score": 1170,
+      "icon": "nokia",
+      "family": "Nokia"
+    },
+    {
+      "id": 847,
+      "name": "Samsung Galaxy S10+",
+      "description": "Samsung Exynos 9820 @ 2.0 GHz",
+      "samples": 417,
+      "score": 740,
+      "multicore_score": 2040,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 848,
+      "name": "Samsung Galaxy S10",
+      "description": "Samsung Exynos 9820 @ 2.0 GHz",
+      "samples": 397,
+      "score": 753,
+      "multicore_score": 1994,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 849,
+      "name": "Samsung Galaxy S10",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 5474,
+      "score": 694,
+      "multicore_score": 2501,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 850,
+      "name": "Samsung Galaxy S10+",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 8163,
+      "score": 696,
+      "multicore_score": 2502,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 851,
+      "name": "Samsung Galaxy S10e",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 3231,
+      "score": 690,
+      "multicore_score": 2439,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 852,
+      "name": "Samsung Galaxy S10e",
+      "description": "Samsung Exynos 9820 @ 2.0 GHz",
+      "samples": 272,
+      "score": 727,
+      "multicore_score": 2035,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 853,
+      "name": "Huawei Mate 20 lite",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 2283,
+      "score": 331,
+      "multicore_score": 1278,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 854,
+      "name": "Huawei Mate 20",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 1975,
+      "score": 683,
+      "multicore_score": 2261,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 855,
+      "name": "Huawei Honor 8X",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 1671,
+      "score": 333,
+      "multicore_score": 1304,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 856,
+      "name": "Google Pixel 3a",
+      "description": "Qualcomm Snapdragon 670 @ 1.7 GHz",
+      "samples": 2477,
+      "score": 336,
+      "multicore_score": 1214,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 857,
+      "name": "Google Pixel 3a XL",
+      "description": "Qualcomm Snapdragon 670 @ 1.7 GHz",
+      "samples": 1002,
+      "score": 339,
+      "multicore_score": 1226,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 858,
+      "name": "Xiaomi Black Shark 2",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 346,
+      "score": 539,
+      "multicore_score": 2081,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 859,
+      "name": "Xiaomi Black Shark Helo",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 27,
+      "score": 432,
+      "multicore_score": 1898,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 860,
+      "name": "Samsung Galaxy A50",
+      "description": "Samsung Exynos 9610 @ 1.7 GHz",
+      "samples": 5923,
+      "score": 331,
+      "multicore_score": 1163,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 861,
+      "name": "OnePlus 7 Pro",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 15540,
+      "score": 720,
+      "multicore_score": 2623,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 862,
+      "name": "Razer Phone 2",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 1282,
+      "score": 502,
+      "multicore_score": 2148,
+      "icon": "razer",
+      "family": "Razer"
+    },
+    {
+      "id": 863,
+      "name": "LG G8 ThinQ",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 10423,
+      "score": 693,
+      "multicore_score": 2333,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 864,
+      "name": "LG V40 ThinQ",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 3218,
+      "score": 434,
+      "multicore_score": 1881,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 865,
+      "name": "Xiaomi Mi A2",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 5420,
+      "score": 327,
+      "multicore_score": 1111,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 866,
+      "name": "Xiaomi Mi 9",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 11422,
+      "score": 669,
+      "multicore_score": 2527,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 867,
+      "name": "Asus Zenfone Max Pro (M2)",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 2164,
+      "score": 291,
+      "multicore_score": 1210,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 868,
+      "name": "Asus ROG Phone",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 662,
+      "score": 505,
+      "multicore_score": 2078,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 869,
+      "name": "Asus ZenFone Max Pro (M1)",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 245,
+      "score": 274,
+      "multicore_score": 1166,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 870,
+      "name": "Samsung Galaxy S10 5G",
+      "description": "Samsung Exynos 9820 @ 2.0 GHz",
+      "samples": 1057,
+      "score": 758,
+      "multicore_score": 2140,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 871,
+      "name": "Samsung Galaxy Note10+",
+      "description": "Samsung Exynos 9825 @ 2.0 GHz",
+      "samples": 164,
+      "score": 666,
+      "multicore_score": 1966,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 872,
+      "name": "Samsung Galaxy Note10+ 5G",
+      "description": "Samsung Exynos 9825 @ 2.0 GHz",
+      "samples": 68,
+      "score": 751,
+      "multicore_score": 2155,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 873,
+      "name": "Samsung Galaxy Note10+",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 9715,
+      "score": 691,
+      "multicore_score": 2481,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 875,
+      "name": "Samsung Galaxy Note10",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 1098,
+      "score": 686,
+      "multicore_score": 2510,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 876,
+      "name": "Google Pixel 4 XL",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 4516,
+      "score": 663,
+      "multicore_score": 2234,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 877,
+      "name": "Google Pixel 4",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 2573,
+      "score": 666,
+      "multicore_score": 2217,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 878,
+      "name": "OnePlus 7",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 7627,
+      "score": 718,
+      "multicore_score": 2568,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 879,
+      "name": "Samsung Galaxy A70",
+      "description": "Qualcomm Snapdragon 675 @ 1.7 GHz",
+      "samples": 10755,
+      "score": 475,
+      "multicore_score": 1529,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 880,
+      "name": "Xiaomi Mi 9T Pro",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 19266,
+      "score": 660,
+      "multicore_score": 2478,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 881,
+      "name": "Huawei P30 Pro",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 12992,
+      "score": 686,
+      "multicore_score": 2340,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 882,
+      "name": "LG G8S ThinQ",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 1248,
+      "score": 703,
+      "multicore_score": 2442,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 885,
+      "name": "Samsung Galaxy A7",
+      "description": "Samsung Exynos 7885 Octa @ 1.6 GHz",
+      "samples": 3407,
+      "score": 298,
+      "multicore_score": 963,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 886,
+      "name": "Samsung Galaxy Note10 5G",
+      "description": "Samsung Exynos 9825 @ 2.0 GHz",
+      "samples": 2422,
+      "score": 712,
+      "multicore_score": 2090,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 889,
+      "name": "Samsung Galaxy M30s",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 2502,
+      "score": 317,
+      "multicore_score": 1170,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 890,
+      "name": "Samsung Galaxy Tab S6",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 4355,
+      "score": 704,
+      "multicore_score": 2449,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 891,
+      "name": "Samsung Galaxy A30",
+      "description": "Samsung Exynos 7904 @ 1.6 GHz",
+      "samples": 3877,
+      "score": 253,
+      "multicore_score": 915,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 892,
+      "name": "Samsung Galaxy A40",
+      "description": "Samsung Exynos 7904 @ 1.6 GHz",
+      "samples": 2469,
+      "score": 259,
+      "multicore_score": 940,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 893,
+      "name": "Samsung Galaxy Tab S5e",
+      "description": "Qualcomm Snapdragon 670 @ 1.7 GHz",
+      "samples": 1534,
+      "score": 335,
+      "multicore_score": 1406,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 894,
+      "name": "Samsung Galaxy A20",
+      "description": "Samsung Exynos 7884 @ 1.4 GHz",
+      "samples": 2471,
+      "score": 232,
+      "multicore_score": 820,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 895,
+      "name": "Samsung Galaxy A50s",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 2600,
+      "score": 320,
+      "multicore_score": 1138,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 897,
+      "name": "Xiaomi Redmi K20 Pro",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 34483,
+      "score": 662,
+      "multicore_score": 2440,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 898,
+      "name": "Huawei Honor 20",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 451,
+      "score": 679,
+      "multicore_score": 2208,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 899,
+      "name": "Huawei Huawei P30",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 5785,
+      "score": 687,
+      "multicore_score": 2389,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 900,
+      "name": "OnePlus 7T",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 15894,
+      "score": 737,
+      "multicore_score": 2612,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 901,
+      "name": "OnePlus 7T Pro",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 6519,
+      "score": 739,
+      "multicore_score": 2584,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 902,
+      "name": "Xiaomi Redmi Note 7",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 17719,
+      "score": 331,
+      "multicore_score": 1274,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 903,
+      "name": "Xiaomi Redmi Note 8 Pro",
+      "description": "Mediatek Helio G90T @ 2.0 GHz",
+      "samples": 32334,
+      "score": 483,
+      "multicore_score": 1575,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 904,
+      "name": "Xiaomi Mi 9T",
+      "description": "Qualcomm Snapdragon 730 @ 1.8 GHz",
+      "samples": 8818,
+      "score": 524,
+      "multicore_score": 1641,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 905,
+      "name": "Xiaomi Redmi Note 7 Pro",
+      "description": "Qualcomm Snapdragon 675 @ 1.7 GHz",
+      "samples": 9523,
+      "score": 496,
+      "multicore_score": 1422,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 906,
+      "name": "Xiaomi Mi A3",
+      "description": "Qualcomm Snapdragon 665 @ 1.8 GHz",
+      "samples": 5015,
+      "score": 308,
+      "multicore_score": 1307,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 907,
+      "name": "Realme 3 Pro",
+      "description": "Qualcomm Snapdragon 710 @ 1.7 GHz",
+      "samples": 4085,
+      "score": 391,
+      "multicore_score": 1429,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 908,
+      "name": "Realme 5 Pro",
+      "description": "Qualcomm Snapdragon 712 @ 1.7 GHz",
+      "samples": 4091,
+      "score": 407,
+      "multicore_score": 1452,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 909,
+      "name": "Xiaomi Mi 8 Lite",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 2126,
+      "score": 329,
+      "multicore_score": 1356,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 910,
+      "name": "Xiaomi Mi 9 SE",
+      "description": "Qualcomm Snapdragon 712 @ 1.7 GHz",
+      "samples": 1760,
+      "score": 400,
+      "multicore_score": 1421,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 911,
+      "name": "Xiaomi Redmi Note 8",
+      "description": "Qualcomm Snapdragon 665 @ 1.8 GHz",
+      "samples": 14678,
+      "score": 307,
+      "multicore_score": 1285,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 912,
+      "name": "Xiaomi Redmi Note 6 Pro",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 2376,
+      "score": 272,
+      "multicore_score": 1072,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 913,
+      "name": "Realme XT",
+      "description": "Qualcomm Snapdragon 712 @ 1.7 GHz",
+      "samples": 2826,
+      "score": 405,
+      "multicore_score": 1446,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 914,
+      "name": "Huawei Honor View 20",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 1816,
+      "score": 687,
+      "multicore_score": 2411,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 915,
+      "name": "Huawei Honor 20 Pro",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 1525,
+      "score": 684,
+      "multicore_score": 2317,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 916,
+      "name": "Asus Zenfone 6 ZS630KL",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 1565,
+      "score": 732,
+      "multicore_score": 2473,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 917,
+      "name": "Huawei P smart 2019",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 2673,
+      "score": 312,
+      "multicore_score": 1130,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 918,
+      "name": "Huawei P30 lite",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 5102,
+      "score": 315,
+      "multicore_score": 1247,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 919,
+      "name": "Xiaomi Redmi K20",
+      "description": "Qualcomm Snapdragon 730 @ 1.8 GHz",
+      "samples": 1502,
+      "score": 515,
+      "multicore_score": 1565,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 920,
+      "name": "Motorola Moto G7 Power",
+      "description": "Qualcomm Snapdragon 632 @ 1.8 GHz",
+      "samples": 2052,
+      "score": 266,
+      "multicore_score": 1098,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 921,
+      "name": "LG V50 ThinQ 5G",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 2989,
+      "score": 686,
+      "multicore_score": 2405,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 922,
+      "name": "LG V50S ThinQ 5G",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 977,
+      "score": 688,
+      "multicore_score": 2349,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 923,
+      "name": "Xiaomi Mi 9 Lite",
+      "description": "Qualcomm Snapdragon 710 @ 1.7 GHz",
+      "samples": 1950,
+      "score": 379,
+      "multicore_score": 1436,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 924,
+      "name": "Huawei Mate 30 Pro",
+      "description": "HiSilicon Kirin 990 @ 1.9 GHz",
+      "samples": 1043,
+      "score": 756,
+      "multicore_score": 2847,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 925,
+      "name": "Realme 5",
+      "description": "Qualcomm Snapdragon 665 @ 1.8 GHz",
+      "samples": 2018,
+      "score": 306,
+      "multicore_score": 1286,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 926,
+      "name": "Huawei Honor 9X",
+      "description": "HiSilicon Kirin 710F @ 1.7 GHz",
+      "samples": 759,
+      "score": 323,
+      "multicore_score": 1312,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 927,
+      "name": "Huawei P Smart Z",
+      "description": "HiSilicon Kirin 710F @ 1.7 GHz",
+      "samples": 1015,
+      "score": 325,
+      "multicore_score": 1314,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 928,
+      "name": "Huawei Mate 20 X",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 1052,
+      "score": 688,
+      "multicore_score": 2371,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 929,
+      "name": "Xiaomi Redmi 7",
+      "description": "Qualcomm Snapdragon 632 @ 1.8 GHz",
+      "samples": 1609,
+      "score": 262,
+      "multicore_score": 1021,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 930,
+      "name": "Xiaomi Mi Max 3",
+      "description": "Qualcomm Snapdragon 636 @ 1.6 GHz",
+      "samples": 683,
+      "score": 273,
+      "multicore_score": 1174,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 931,
+      "name": "Xiaomi Mi Mix 3",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 776,
+      "score": 449,
+      "multicore_score": 2019,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 932,
+      "name": "Huawei Honor 10 Lite",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 1403,
+      "score": 312,
+      "multicore_score": 1136,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 935,
+      "name": "Asus ROG Phone II",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 4213,
+      "score": 728,
+      "multicore_score": 2520,
+      "icon": "asus",
+      "family": "Asus"
+    },
+    {
+      "id": 936,
+      "name": "Samsung Galaxy A9 (2018)",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 1252,
+      "score": 298,
+      "multicore_score": 1326,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 937,
+      "name": "Samsung Galaxy A80",
+      "description": "Qualcomm Snapdragon 730 @ 1.8 GHz",
+      "samples": 1405,
+      "score": 519,
+      "multicore_score": 1657,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 938,
+      "name": "Realme X2 Pro",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 8481,
+      "score": 747,
+      "multicore_score": 2483,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 939,
+      "name": "Xiaomi Redmi K20 Pro Premium Edition",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 718,
+      "score": 657,
+      "multicore_score": 2463,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 940,
+      "name": "Meizu 16th",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 657,
+      "score": 489,
+      "multicore_score": 2146,
+      "icon": "meizu",
+      "family": "Meizu"
+    },
+    {
+      "id": 941,
+      "name": "Realme 3",
+      "description": "Mediatek MT6771 Helio P60 @ 2.0 GHz",
+      "samples": 714,
+      "score": 287,
+      "multicore_score": 1177,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 942,
+      "name": "Realme 3",
+      "description": "Mediatek Helio P70 @ 2.0 GHz",
+      "samples": 626,
+      "score": 299,
+      "multicore_score": 1183,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 943,
+      "name": "Realme X",
+      "description": "Qualcomm Snapdragon 710 @ 1.7 GHz",
+      "samples": 1462,
+      "score": 389,
+      "multicore_score": 1425,
+      "icon": "oppo",
+      "family": "Realme"
+    },
+    {
+      "id": 944,
+      "name": "Huawei Y9s",
+      "description": "HiSilicon Kirin 710F @ 1.7 GHz",
+      "samples": 1338,
+      "score": 322,
+      "multicore_score": 1306,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 945,
+      "name": "Huawei Y9 Prime (2019)",
+      "description": "HiSilicon Kirin 710F @ 1.7 GHz",
+      "samples": 2195,
+      "score": 322,
+      "multicore_score": 1292,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 946,
+      "name": "Huawei Mate 30 Pro 5G",
+      "description": "HiSilicon Kirin 990 @ 2.0 GHz",
+      "samples": 259,
+      "score": 758,
+      "multicore_score": 2953,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 947,
+      "name": "Oppo Reno2",
+      "description": "Qualcomm Snapdragon 730G @ 1.8 GHz",
+      "samples": 1124,
+      "score": 537,
+      "multicore_score": 1680,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 948,
+      "name": "Oppo Reno",
+      "description": "Qualcomm Snapdragon 710 @ 1.7 GHz",
+      "samples": 347,
+      "score": 387,
+      "multicore_score": 1403,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 949,
+      "name": "Sony Xperia 1",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 950,
+      "score": 717,
+      "multicore_score": 2612,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 950,
+      "name": "Samsung Galaxy A90 5G",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 2975,
+      "score": 679,
+      "multicore_score": 2474,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 951,
+      "name": "Huawei Honor 8X",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 1757,
+      "score": 331,
+      "multicore_score": 1264,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 952,
+      "name": "Oppo Reno 10x Zoom",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 1175,
+      "score": 728,
+      "multicore_score": 2616,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 953,
+      "name": "Vivo iQOO Pro 5G",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 21,
+      "score": 756,
+      "multicore_score": 2595,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 954,
+      "name": "Samsung Galaxy Note10+ 5G",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 1154,
+      "score": 696,
+      "multicore_score": 2481,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 955,
+      "name": "Samsung Galaxy A20e",
+      "description": "Samsung Exynos 7884 @ 1.4 GHz",
+      "samples": 1499,
+      "score": 233,
+      "multicore_score": 839,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 956,
+      "name": "Samsung Galaxy A20s",
+      "description": "Qualcomm Snapdragon 450 @ 1.8 GHz",
+      "samples": 1065,
+      "score": 148,
+      "multicore_score": 894,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 957,
+      "name": "Huawei nova 3i",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 2271,
+      "score": 327,
+      "multicore_score": 1261,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 958,
+      "name": "Motorola One Action",
+      "description": "Samsung Exynos 9609 @ 1.6 GHz",
+      "samples": 1115,
+      "score": 329,
+      "multicore_score": 1268,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 959,
+      "name": "Xiaomi Redmi Note 7S",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 1424,
+      "score": 331,
+      "multicore_score": 1132,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 960,
+      "name": "Xiaomi Mi Pad 4",
+      "description": "Qualcomm Snapdragon 660 @ 1.8 GHz",
+      "samples": 668,
+      "score": 331,
+      "multicore_score": 1379,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 961,
+      "name": "Vivo S1",
+      "description": "Mediatek MT6768 Helio P65 @ 1.7 GHz",
+      "samples": 300,
+      "score": 346,
+      "multicore_score": 1248,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 962,
+      "name": "ZTE nubia Red Magic 3",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 453,
+      "score": 734,
+      "multicore_score": 2376,
+      "icon": "zte",
+      "family": "ZTE"
+    },
+    {
+      "id": 963,
+      "name": "Motorola Moto G7",
+      "description": "Qualcomm Snapdragon 632 @ 1.8 GHz",
+      "samples": 744,
+      "score": 267,
+      "multicore_score": 1157,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 964,
+      "name": "Huawei Y9 (2019)",
+      "description": "HiSilicon Kirin 710 @ 1.7 GHz",
+      "samples": 2002,
+      "score": 327,
+      "multicore_score": 1154,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 965,
+      "name": "Vivo Z1Pro",
+      "description": "Qualcomm Snapdragon 712 @ 1.7 GHz",
+      "samples": 1308,
+      "score": 404,
+      "multicore_score": 1451,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 966,
+      "name": "Samsung Galaxy Tab S4 10.5",
+      "description": "Qualcomm Snapdragon 835 @ 1.9 GHz",
+      "samples": 1036,
+      "score": 357,
+      "multicore_score": 1478,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 967,
+      "name": "Samsung Galaxy M20",
+      "description": "Samsung Exynos 7904 @ 1.6 GHz",
+      "samples": 1356,
+      "score": 260,
+      "multicore_score": 934,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 968,
+      "name": "Samsung Galaxy A30s",
+      "description": "Samsung Exynos 7904 @ 1.6 GHz",
+      "samples": 2869,
+      "score": 258,
+      "multicore_score": 936,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 969,
+      "name": "Xiaomi Mi Note 10",
+      "description": "Qualcomm Snapdragon 730G @ 1.8 GHz",
+      "samples": 1962,
+      "score": 521,
+      "multicore_score": 1649,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 970,
+      "name": "Oppo F11 Pro",
+      "description": "Mediatek Helio P70 @ 2.0 GHz",
+      "samples": 1137,
+      "score": 308,
+      "multicore_score": 1405,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 971,
+      "name": "LG V35 ThinQ",
+      "description": "Qualcomm Snapdragon 845 @ 1.8 GHz",
+      "samples": 1115,
+      "score": 445,
+      "multicore_score": 1980,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 972,
+      "name": "Vivo S1",
+      "description": "Mediatek MT6768 Helio P65 @ 1.7 GHz",
+      "samples": 206,
+      "score": 350,
+      "multicore_score": 1256,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 973,
+      "name": "Samsung Galaxy Fold 5G",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 725,
+      "score": 685,
+      "multicore_score": 2530,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 974,
+      "name": "Vivo V15 Pro",
+      "description": "Qualcomm Snapdragon 675 @ 1.7 GHz",
+      "samples": 972,
+      "score": 496,
+      "multicore_score": 1541,
+      "icon": "vivo",
+      "family": "Vivo"
+    },
+    {
+      "id": 975,
+      "name": "Sony Xperia 5",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 392,
+      "score": 714,
+      "multicore_score": 2565,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 976,
+      "name": "Oppo F9 Pro",
+      "description": "Mediatek MT6771 Helio P60 @ 2.0 GHz",
+      "samples": 1276,
+      "score": 287,
+      "multicore_score": 1339,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 977,
+      "name": "Oppo F9",
+      "description": "Mediatek MT6771 Helio P60 @ 2.0 GHz",
+      "samples": 210,
+      "score": 283,
+      "multicore_score": 1287,
+      "icon": "oppo",
+      "family": "Oppo"
+    },
+    {
+      "id": 28,
+      "name": "iPhone 5s",
+      "description": "Apple A7 @ 1.3 GHz",
+      "samples": 967,
+      "score": 259,
+      "multicore_score": 476,
+      "icon": "iphone-5s",
+      "family": "iPhone"
+    },
+    {
+      "id": 30,
+      "name": "iPad Air",
+      "description": "Apple A7 @ 1.4 GHz",
+      "samples": 564,
+      "score": 280,
+      "multicore_score": 530,
+      "icon": "ipad-air",
+      "family": "iPad"
+    },
+    {
+      "id": 31,
+      "name": "iPad mini (Retina)",
+      "description": "Apple A7 @ 1.3 GHz",
+      "samples": 515,
+      "score": 261,
+      "multicore_score": 492,
+      "icon": "ipad-mini-retina",
+      "family": "iPad"
+    },
+    {
+      "id": 32,
+      "name": "iPhone 6 Plus",
+      "description": "Apple A8 @ 1.4 GHz",
+      "samples": 552,
+      "score": 309,
+      "multicore_score": 568,
+      "icon": "iphone-6plus",
+      "family": "iPhone"
+    },
+    {
+      "id": 33,
+      "name": "iPhone 6",
+      "description": "Apple A8 @ 1.4 GHz",
+      "samples": 1791,
+      "score": 306,
+      "multicore_score": 566,
+      "icon": "iphone-6",
+      "family": "iPhone"
+    },
+    {
+      "id": 34,
+      "name": "iPad Air 2",
+      "description": "Apple A8X @ 1.5 GHz",
+      "samples": 2222,
+      "score": 379,
+      "multicore_score": 1057,
+      "icon": "ipad-air-2-gold",
+      "family": "iPad"
+    },
+    {
+      "id": 35,
+      "name": "iPad Mini 3",
+      "description": "Apple A7 @ 1.3 GHz",
+      "samples": 84,
+      "score": 259,
+      "multicore_score": 492,
+      "icon": "ipad-mini-3-gold",
+      "family": "iPad"
+    },
+    {
+      "id": 36,
+      "name": "iPod touch (6th Generation)",
+      "description": "Apple A8 @ 1.1 GHz",
+      "samples": 265,
+      "score": 268,
+      "multicore_score": 518,
+      "icon": "ipod-touch-5g",
+      "family": "iPod"
+    },
+    {
+      "id": 38,
+      "name": "iPhone 6s",
+      "description": "Apple A9 @ 1.8 GHz",
+      "samples": 6582,
+      "score": 531,
+      "multicore_score": 971,
+      "icon": "iphone-6s-silver",
+      "family": "iPhone"
+    },
+    {
+      "id": 39,
+      "name": "iPhone 6s Plus",
+      "description": "Apple A9 @ 1.8 GHz",
+      "samples": 3094,
+      "score": 536,
+      "multicore_score": 985,
+      "icon": "iphone-6s-plus-silver",
+      "family": "iPhone"
+    },
+    {
+      "id": 40,
+      "name": "iPad Pro (12.9-inch)",
+      "description": "Apple A9X @ 2.3 GHz",
+      "samples": 1151,
+      "score": 645,
+      "multicore_score": 1198,
+      "icon": "ipad-pro",
+      "family": "iPad"
+    },
+    {
+      "id": 41,
+      "name": "iPad mini 4",
+      "description": "Apple A8 @ 1.5 GHz",
+      "samples": 917,
+      "score": 355,
+      "multicore_score": 668,
+      "icon": "ipad-mini-4",
+      "family": "iPad"
+    },
+    {
+      "id": 42,
+      "name": "iPhone SE",
+      "description": "Apple A9 @ 1.8 GHz",
+      "samples": 6222,
+      "score": 540,
+      "multicore_score": 993,
+      "icon": "iphone-se",
+      "family": "iPhone"
+    },
+    {
+      "id": 43,
+      "name": "iPad Pro (9.7-inch)",
+      "description": "Apple A9X @ 2.3 GHz",
+      "samples": 1968,
+      "score": 639,
+      "multicore_score": 1179,
+      "icon": "ipad-pro-97",
+      "family": "iPad"
+    },
+    {
+      "id": 44,
+      "name": "iPhone 7",
+      "description": "Apple A10 Fusion @ 2.3 GHz",
+      "samples": 10140,
+      "score": 729,
+      "multicore_score": 1290,
+      "icon": "iphone-7",
+      "family": "iPhone"
+    },
+    {
+      "id": 45,
+      "name": "iPhone 7 Plus",
+      "description": "Apple A10 Fusion @ 2.3 GHz",
+      "samples": 6792,
+      "score": 727,
+      "multicore_score": 1299,
+      "icon": "iphone-7-plus",
+      "family": "iPhone"
+    },
+    {
+      "id": 46,
+      "name": "iPad Pro (10.5-inch)",
+      "description": "Apple A10X Fusion @ 2.3 GHz",
+      "samples": 5966,
+      "score": 829,
+      "multicore_score": 2261,
+      "icon": "ipad-pro-105",
+      "family": "iPad"
+    },
+    {
+      "id": 47,
+      "name": "iPad Pro (12.9-inch 2nd Generation)",
+      "description": "Apple A10X Fusion @ 2.3 GHz",
+      "samples": 1251,
+      "score": 830,
+      "multicore_score": 2272,
+      "icon": "ipad-pro-129-mid-2017",
+      "family": "iPad"
+    },
+    {
+      "id": 49,
+      "name": "iPad (5th generation)",
+      "description": "Apple A9 @ 1.8 GHz",
+      "samples": 1380,
+      "score": 550,
+      "multicore_score": 1025,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 50,
+      "name": "iPhone 8",
+      "description": "Apple A11 Bionic @ 2.4 GHz",
+      "samples": 12401,
+      "score": 910,
+      "multicore_score": 1852,
+      "icon": "iphone-8",
+      "family": "iPhone"
+    },
+    {
+      "id": 51,
+      "name": "iPhone 8 Plus",
+      "description": "Apple A11 Bionic @ 2.4 GHz",
+      "samples": 10499,
+      "score": 917,
+      "multicore_score": 1987,
+      "icon": "iphone-8-plus",
+      "family": "iPhone"
+    },
+    {
+      "id": 52,
+      "name": "iPhone X",
+      "description": "Apple A11 Bionic @ 2.4 GHz",
+      "samples": 18413,
+      "score": 910,
+      "multicore_score": 2098,
+      "icon": "iphone-x-space-gray",
+      "family": "iPhone"
+    },
+    {
+      "id": 53,
+      "name": "iPad (6th generation)",
+      "description": "Apple A10 Fusion @ 2.3 GHz",
+      "samples": 3544,
+      "score": 755,
+      "multicore_score": 1402,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 54,
+      "name": "Samsung Galaxy S III",
+      "description": "Qualcomm Snapdragon S4 MSM8960 @ 1.5 GHz",
+      "samples": 16,
+      "score": 66,
+      "multicore_score": 128,
+      "icon": "samsung-galaxy-s-3",
+      "family": "Samsung"
+    },
+    {
+      "id": 55,
+      "name": "iPhone XS Max",
+      "description": "Apple A12 Bionic @ 2.5 GHz",
+      "samples": 18268,
+      "score": 1110,
+      "multicore_score": 2452,
+      "icon": "iphone-xs-max",
+      "family": "iPhone"
+    },
+    {
+      "id": 56,
+      "name": "iPhone XS",
+      "description": "Apple A12 Bionic @ 2.5 GHz",
+      "samples": 16461,
+      "score": 1109,
+      "multicore_score": 2480,
+      "icon": "iphone-xs",
+      "family": "iPhone"
+    },
+    {
+      "id": 57,
+      "name": "iPad Pro (11-inch)",
+      "description": "Apple A12X Bionic @ 2.5 GHz",
+      "samples": 10157,
+      "score": 1116,
+      "multicore_score": 4609,
+      "icon": "ipad-pro-11",
+      "family": "iPad"
+    },
+    {
+      "id": 58,
+      "name": "iPad Pro (12.9-inch 3rd Generation)",
+      "description": "Apple A12X Bionic @ 2.5 GHz",
+      "samples": 6546,
+      "score": 1152,
+      "multicore_score": 4785,
+      "icon": "ipad-pro-129-2018",
+      "family": "iPad"
+    },
+    {
+      "id": 59,
+      "name": "iPad mini (5th generation)",
+      "description": "Apple A12 Bionic @ 2.5 GHz",
+      "samples": 4795,
+      "score": 1112,
+      "multicore_score": 2710,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 60,
+      "name": "iPad Air (3rd generation)",
+      "description": "Apple A12 Bionic @ 2.5 GHz",
+      "samples": 4344,
+      "score": 1112,
+      "multicore_score": 2831,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 61,
+      "name": "iPod (7th generation)",
+      "description": "Apple A10 Fusion @ 1.6 GHz",
+      "samples": 539,
+      "score": 557,
+      "multicore_score": 1067,
+      "icon": "apple",
+      "family": "iPod"
+    },
+    {
+      "id": 63,
+      "name": "iPhone 11 Pro Max",
+      "description": "Apple A13 Bionic @ 2.7 GHz",
+      "samples": 27989,
+      "score": 1324,
+      "multicore_score": 3316,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 64,
+      "name": "iPhone 11 Pro",
+      "description": "Apple A13 Bionic @ 2.7 GHz",
+      "samples": 17671,
+      "score": 1328,
+      "multicore_score": 3323,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 65,
+      "name": "iPhone 11",
+      "description": "Apple A13 Bionic @ 2.7 GHz",
+      "samples": 29857,
+      "score": 1324,
+      "multicore_score": 3076,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 426,
+      "name": "Samsung Galaxy A3 (2017)",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 449,
+      "score": 117,
+      "multicore_score": 441,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 513,
+      "name": "Elephone S8",
+      "description": "Mediatek MT6797T Helio X25 @ 2.0 GHz",
+      "samples": 7,
+      "score": 250,
+      "multicore_score": 904,
+      "icon": "elephone",
+      "family": "Elephone"
+    },
+    {
+      "id": 304,
+      "name": "Huawei Honor 5X",
+      "description": "Qualcomm MSM8939v2 Snapdragon 616 @ 1.5 GHz",
+      "samples": 6,
+      "score": 111,
+      "multicore_score": 491,
+      "icon": "huawei-honor-5x",
+      "family": "Huawei"
+    },
+    {
+      "id": 235,
+      "name": "Motorola Moto G4",
+      "description": "Qualcomm Snapdragon 617 @ 1.5 GHz",
+      "samples": 212,
+      "score": 112,
+      "multicore_score": 377,
+      "icon": "moto-moto-g4",
+      "family": "Motorola"
+    },
+    {
+      "id": 584,
+      "name": "UMi Z Pro",
+      "description": "Mediatek Helio X27 @ 1.5 GHz",
+      "samples": 9,
+      "score": 227,
+      "multicore_score": 951,
+      "icon": "umidigi",
+      "family": "UMi"
+    },
+    {
+      "id": 978,
+      "name": "Samsung Galaxy S20 Ultra",
+      "description": "Samsung Exynos 990 @ 2.0 GHz",
+      "samples": 15597,
+      "score": 810,
+      "multicore_score": 2664,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 979,
+      "name": "Huawei nova 5T",
+      "description": "HiSilicon Kirin 980 @ 1.8 GHz",
+      "samples": 14023,
+      "score": 678,
+      "multicore_score": 2188,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 980,
+      "name": "Samsung Galaxy S20+",
+      "description": "Samsung Exynos 990 @ 2.0 GHz",
+      "samples": 25860,
+      "score": 801,
+      "multicore_score": 2612,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 981,
+      "name": "Samsung Galaxy A51",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 15592,
+      "score": 314,
+      "multicore_score": 1186,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 982,
+      "name": "Samsung Galaxy S20+ 5G",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 14807,
+      "score": 830,
+      "multicore_score": 3009,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 983,
+      "name": "Samsung Galaxy S20",
+      "description": "Samsung Exynos 990 @ 2.0 GHz",
+      "samples": 14969,
+      "score": 772,
+      "multicore_score": 2587,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 984,
+      "name": "Samsung Galaxy S20 Ultra 5G",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 10606,
+      "score": 846,
+      "multicore_score": 3023,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 985,
+      "name": "Samsung Galaxy S20 5G",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 9571,
+      "score": 832,
+      "multicore_score": 2994,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 986,
+      "name": "OnePlus 7T Pro 5G",
+      "description": "Qualcomm Snapdragon 855+ @ 1.8 GHz",
+      "samples": 886,
+      "score": 758,
+      "multicore_score": 2674,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 987,
+      "name": "Samsung Galaxy A71",
+      "description": "Qualcomm Snapdragon 730 @ 1.8 GHz",
+      "samples": 16248,
+      "score": 500,
+      "multicore_score": 1608,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 988,
+      "name": "Samsung Galaxy S10 Lite",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 9184,
+      "score": 671,
+      "multicore_score": 2488,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 989,
+      "name": "Samsung Galaxy Note10 Lite",
+      "description": "Samsung Exynos 9810 @ 1.8 GHz",
+      "samples": 8214,
+      "score": 531,
+      "multicore_score": 1711,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 990,
+      "name": "Xiaomi Redmi Note 8T",
+      "description": "Qualcomm Snapdragon 665 @ 1.8 GHz",
+      "samples": 4455,
+      "score": 307,
+      "multicore_score": 1291,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 991,
+      "name": "Huawei Honor 9X",
+      "description": "HiSilicon Kirin 810 @ 1.9 GHz",
+      "samples": 388,
+      "score": 590,
+      "multicore_score": 1858,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 576,
+      "name": "General Mobile GM 5 Plus",
+      "description": "Qualcomm Snapdragon 617 @ 1.5 GHz",
+      "samples": 27,
+      "score": 122,
+      "multicore_score": 465,
+      "icon": "general-mobile",
+      "family": "General"
+    },
+    {
+      "id": 574,
+      "name": "Lenovo K6",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 12,
+      "score": 105,
+      "multicore_score": 397,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 325,
+      "name": "Samsung Galaxy Tab A 10.1",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 1199,
+      "score": 117,
+      "multicore_score": 437,
+      "icon": "samsung-galaxy-tab",
+      "family": "Samsung"
+    },
+    {
+      "id": 504,
+      "name": "Sony Xperia Z5 Compact",
+      "description": "Qualcomm Snapdragon 810 @ 1.6 GHz",
+      "samples": 7,
+      "score": 210,
+      "multicore_score": 475,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 992,
+      "name": "OnePlus 8 Pro",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 19071,
+      "score": 868,
+      "multicore_score": 3096,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 993,
+      "name": "OnePlus 8",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 14843,
+      "score": 882,
+      "multicore_score": 3170,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 66,
+      "name": "iPhone SE (2nd generation)",
+      "description": "Apple A13 Bionic @ 2.7 GHz",
+      "samples": 21058,
+      "score": 1321,
+      "multicore_score": 2798,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 67,
+      "name": "iPad Pro 11-inch (2nd generation)",
+      "description": "Apple A12Z Bionic @ 2.5 GHz",
+      "samples": 12065,
+      "score": 1118,
+      "multicore_score": 4636,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 68,
+      "name": "iPad Pro 12.9-inch (4th generation)",
+      "description": "Apple A12Z Bionic @ 2.5 GHz",
+      "samples": 7825,
+      "score": 1121,
+      "multicore_score": 4652,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 69,
+      "name": "iPad (7th generation)",
+      "description": "Apple A10 Fusion @ 2.3 GHz",
+      "samples": 2477,
+      "score": 749,
+      "multicore_score": 1383,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 120,
+      "name": "LG Nexus 5",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 190,
+      "score": 138,
+      "multicore_score": 395,
+      "icon": "nexus-5",
+      "family": "LG"
+    },
+    {
+      "id": 163,
+      "name": "Samsung Galaxy S5",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 407,
+      "score": 152,
+      "multicore_score": 418,
+      "icon": "samsung-galaxy-s-5",
+      "family": "Samsung"
+    },
+    {
+      "id": 168,
+      "name": "NVIDIA SHIELD Tablet",
+      "description": "NVIDIA Tegra K1 @ 2.2 GHz",
+      "samples": 237,
+      "score": 209,
+      "multicore_score": 709,
+      "icon": "nvidia-shield-tablet",
+      "family": "NVIDIA"
+    },
+    {
+      "id": 191,
+      "name": "Motorola Nexus 6",
+      "description": "Qualcomm APQ8084 Snapdragon 805 @ 2.6 GHz",
+      "samples": 323,
+      "score": 149,
+      "multicore_score": 474,
+      "icon": "nexus-6",
+      "family": "Motorola"
+    },
+    {
+      "id": 281,
+      "name": "Samsung Galaxy J7 Prime",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 1750,
+      "score": 113,
+      "multicore_score": 418,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 287,
+      "name": "Samsung Galaxy J7",
+      "description": "Qualcomm Snapdragon 617 @ 1.6 GHz",
+      "samples": 614,
+      "score": 116,
+      "multicore_score": 430,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 289,
+      "name": "Samsung Galaxy J5",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 485,
+      "score": 81,
+      "multicore_score": 235,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 332,
+      "name": "Motorola Moto G4 Play",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 168,
+      "score": 85,
+      "multicore_score": 288,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 378,
+      "name": "Samsung Galaxy J5 Prime",
+      "description": "Samsung Exynos 7570 @ 1.4 GHz",
+      "samples": 505,
+      "score": 99,
+      "multicore_score": 331,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 379,
+      "name": "Samsung Galaxy A3 (2016)",
+      "description": "Samsung Exynos 7578 @ 1.5 GHz",
+      "samples": 339,
+      "score": 102,
+      "multicore_score": 350,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 418,
+      "name": "Motorola Moto G5",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 474,
+      "score": 104,
+      "multicore_score": 371,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 431,
+      "name": "Samsung Galaxy J5 (2017)",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 745,
+      "score": 117,
+      "multicore_score": 443,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 435,
+      "name": "Samsung Galaxy J7 (2017)",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 621,
+      "score": 118,
+      "multicore_score": 447,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 437,
+      "name": "Motorola Moto E4",
+      "description": "Mediatek MT6737 @ 1.2 GHz",
+      "samples": 86,
+      "score": 81,
+      "multicore_score": 291,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 495,
+      "name": "LG K10 (2017)",
+      "description": "Mediatek MT6750 @ 1.0 GHz",
+      "samples": 135,
+      "score": 106,
+      "multicore_score": 358,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 507,
+      "name": "Samsung Galaxy J7 Nxt",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 547,
+      "score": 113,
+      "multicore_score": 429,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 511,
+      "name": "Samsung Galaxy Tab A 8.0",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 106,
+      "score": 81,
+      "multicore_score": 248,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 548,
+      "name": "BQ Aquaris X5 Plus",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 14,
+      "score": 205,
+      "multicore_score": 489,
+      "icon": "bq",
+      "family": "BQ"
+    },
+    {
+      "id": 559,
+      "name": "Samsung Galaxy Tab A 9.7",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 203,
+      "score": 81,
+      "multicore_score": 264,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 566,
+      "name": "Samsung Galaxy J3 (2017)",
+      "description": "Samsung Exynos 7570 @ 1.4 GHz",
+      "samples": 365,
+      "score": 103,
+      "multicore_score": 353,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 603,
+      "name": "Motorola Moto G6",
+      "description": "Qualcomm Snapdragon 450 @ 1.8 GHz",
+      "samples": 1078,
+      "score": 136,
+      "multicore_score": 503,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 689,
+      "name": "Samsung Galaxy J3 V",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 34,
+      "score": 81,
+      "multicore_score": 219,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 770,
+      "name": "Motorola Moto G6 Play",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 558,
+      "score": 105,
+      "multicore_score": 371,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 116,
+      "name": "Samsung Galaxy Note 3",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 219,
+      "score": 147,
+      "multicore_score": 518,
+      "icon": "samsung-galaxy-note-3",
+      "family": "Samsung"
+    },
+    {
+      "id": 161,
+      "name": "HTC One (M8)",
+      "description": "Qualcomm MSM8974AB Snapdragon 801 @ 2.3 GHz",
+      "samples": 65,
+      "score": 151,
+      "multicore_score": 540,
+      "icon": "htc-one-m8",
+      "family": "HTC"
+    },
+    {
+      "id": 170,
+      "name": "LG G3",
+      "description": "Qualcomm MSM8975AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 111,
+      "score": 140,
+      "multicore_score": 442,
+      "icon": "lg-g3",
+      "family": "LG"
+    },
+    {
+      "id": 171,
+      "name": "OnePlus One",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 304,
+      "score": 148,
+      "multicore_score": 480,
+      "icon": "oneplus-one",
+      "family": "OnePlus"
+    },
+    {
+      "id": 237,
+      "name": "Samsung Galaxy A5 (2016)",
+      "description": "Samsung Exynos 7580 @ 1.6 GHz",
+      "samples": 646,
+      "score": 108,
+      "multicore_score": 400,
+      "icon": "samsung-galaxy-a5-2016",
+      "family": "Samsung"
+    },
+    {
+      "id": 306,
+      "name": "Motorola Moto X Play",
+      "description": "Qualcomm Snapdragon 615 @ 1.7 GHz",
+      "samples": 78,
+      "score": 115,
+      "multicore_score": 363,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 449,
+      "name": "Samsung Galaxy J7 Pro",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 772,
+      "score": 117,
+      "multicore_score": 445,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 453,
+      "name": "Motorola Moto E4 Plus",
+      "description": "Mediatek MT6737 @ 1.2 GHz",
+      "samples": 356,
+      "score": 82,
+      "multicore_score": 286,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 468,
+      "name": "Samsung Galaxy J7 Max",
+      "description": "Mediatek Helio P20 MT6757 @ 1.7 GHz",
+      "samples": 563,
+      "score": 125,
+      "multicore_score": 445,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 533,
+      "name": "Samsung Galaxy C5",
+      "description": "Qualcomm Snapdragon 617 @ 1.5 GHz",
+      "samples": 37,
+      "score": 96,
+      "multicore_score": 354,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 587,
+      "name": "BQ Aquaris M5",
+      "description": "Qualcomm Snapdragon 615 @ 1.5 GHz",
+      "samples": 12,
+      "score": 102,
+      "multicore_score": 348,
+      "icon": "bq",
+      "family": "BQ"
+    },
+    {
+      "id": 649,
+      "name": "Huawei Honor 6A",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 28,
+      "score": 105,
+      "multicore_score": 384,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 702,
+      "name": "Samsung Galaxy Tab E 9.6",
+      "description": "Spreadtrum SC7730 @ 1.2 GHz",
+      "samples": 90,
+      "score": 81,
+      "multicore_score": 258,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 707,
+      "name": "Huawei P9 lite mini",
+      "description": "Qualcomm Snapdragon 425 @ 1.4 GHz",
+      "samples": 85,
+      "score": 105,
+      "multicore_score": 363,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 708,
+      "name": "Huawei Y7 Prime",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 93,
+      "score": 105,
+      "multicore_score": 385,
+      "icon": "huawei",
+      "family": "Huawei"
+    },
+    {
+      "id": 111,
+      "name": "Samsung Galaxy S4",
+      "description": "Exynos 5 Octa 5410 @ 1.6 GHz",
+      "samples": 35,
+      "score": 131,
+      "multicore_score": 418,
+      "icon": "samsung-galaxy-s-4",
+      "family": "Samsung"
+    },
+    {
+      "id": 240,
+      "name": "NVIDIA SHIELD Tablet K1",
+      "description": "NVIDIA Tegra K1 @ 2.2 GHz",
+      "samples": 211,
+      "score": 205,
+      "multicore_score": 711,
+      "icon": "nvidia-shield-tablet-k1",
+      "family": "NVIDIA"
+    },
+    {
+      "id": 342,
+      "name": "Samsung Galaxy Tab S2 9.7",
+      "description": "Samsung Exynos 5433 @ 1.3 GHz",
+      "samples": 252,
+      "score": 205,
+      "multicore_score": 628,
+      "icon": "samsung-galaxy-tab",
+      "family": "Samsung"
+    },
+    {
+      "id": 459,
+      "name": "LG Q6",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 222,
+      "score": 80,
+      "multicore_score": 284,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 541,
+      "name": "LG K20 plus",
+      "description": "Qualcomm Snapdragon 425 @ 1.4 GHz",
+      "samples": 118,
+      "score": 93,
+      "multicore_score": 313,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 636,
+      "name": "Samsung Galaxy J5 (2016)",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 127,
+      "score": 81,
+      "multicore_score": 228,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 112,
+      "name": "Asus Nexus 7 (2013)",
+      "description": "Qualcomm Snapdragon S4 Pro APQ8064 @ 1.5 GHz",
+      "samples": 170,
+      "score": 92,
+      "multicore_score": 354,
+      "icon": "asus-nexus-7-2013",
+      "family": "Asus"
+    },
+    {
+      "id": 136,
+      "name": "Samsung Galaxy S4 Mini",
+      "description": "Qualcomm Snapdragon 400 @ 1.7 GHz",
+      "samples": 61,
+      "score": 102,
+      "multicore_score": 188,
+      "icon": "samsung-galaxy-s-4-mini",
+      "family": "Samsung"
+    },
+    {
+      "id": 172,
+      "name": "Samsung Galaxy Tab Pro 8.4",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 66,
+      "score": 153,
+      "multicore_score": 510,
+      "icon": "samsung-galaxy-tab-pro-8-4",
+      "family": "Samsung"
+    },
+    {
+      "id": 317,
+      "name": "Asus Zenfone 2 ",
+      "description": "Intel Atom Z2560 @ 2.3 GHz",
+      "samples": 55,
+      "score": 178,
+      "multicore_score": 551,
+      "icon": "asus-zenfone-2",
+      "family": "Asus"
+    },
+    {
+      "id": 653,
+      "name": "Motorola Moto C Plus",
+      "description": "Mediatek MT6737 @ 1.2 GHz",
+      "samples": 80,
+      "score": 81,
+      "multicore_score": 282,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 90,
+      "name": "LG Nexus 4",
+      "description": "Qualcomm Snapdragon S4 Pro APQ8064 @ 1.5 GHz",
+      "samples": 42,
+      "score": 85,
+      "multicore_score": 273,
+      "icon": "nexus-4",
+      "family": "LG"
+    },
+    {
+      "id": 175,
+      "name": "Motorola Moto X (2014)",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 33,
+      "score": 155,
+      "multicore_score": 557,
+      "icon": "motorola-moto-x-2014",
+      "family": "Motorola"
+    },
+    {
+      "id": 203,
+      "name": "Samsung Galaxy S5 Plus",
+      "description": "Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz",
+      "samples": 20,
+      "score": 158,
+      "multicore_score": 464,
+      "icon": "samsung-galaxy-s5-plus",
+      "family": "Samsung"
+    },
+    {
+      "id": 302,
+      "name": "Samsung Galaxy A7 (2016)",
+      "description": "Samsung Exynos 7580 @ 1.6 GHz",
+      "samples": 143,
+      "score": 106,
+      "multicore_score": 398,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 561,
+      "name": "LG Stylo 2",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 13,
+      "score": 83,
+      "multicore_score": 285,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 706,
+      "name": "LG Stylus 3",
+      "description": "Mediatek MT6750 @ 1.4 GHz",
+      "samples": 18,
+      "score": 102,
+      "multicore_score": 382,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 809,
+      "name": "Samsung Galaxy Feel",
+      "description": "Samsung Exynos 7870 Octa @ 1.6 GHz",
+      "samples": 91,
+      "score": 114,
+      "multicore_score": 429,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 108,
+      "name": "Samsung Galaxy S4",
+      "description": "Qualcomm Snapdragon 600 @ 1.9 GHz",
+      "samples": 176,
+      "score": 103,
+      "multicore_score": 317,
+      "icon": "samsung-galaxy-s-4",
+      "family": "Samsung"
+    },
+    {
+      "id": 121,
+      "name": "LG G2",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 60,
+      "score": 144,
+      "multicore_score": 448,
+      "icon": "lg-g2",
+      "family": "LG"
+    },
+    {
+      "id": 355,
+      "name": "Samsung Galaxy J3",
+      "description": "Spreadtrum SC9830 @ 1.5 GHz",
+      "samples": 29,
+      "score": 80,
+      "multicore_score": 260,
+      "icon": "samsung-galaxy",
+      "family": "Samsung"
+    },
+    {
+      "id": 475,
+      "name": "LG G5 SE",
+      "description": "Qualcomm Snapdragon 652 @ 1.4 GHz",
+      "samples": 89,
+      "score": 225,
+      "multicore_score": 671,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 146,
+      "name": "Samsung Galaxy S4 Active",
+      "description": "Qualcomm Snapdragon 600 @ 1.9 GHz",
+      "samples": 7,
+      "score": 114,
+      "multicore_score": 366,
+      "icon": "samsung-galaxy-s-4-active",
+      "family": "Samsung"
+    },
+    {
+      "id": 182,
+      "name": "Xiaomi Mi 3",
+      "description": "Qualcomm MSM8274AB Snapdragon 801 @ 2.3 GHz",
+      "samples": 12,
+      "score": 143,
+      "multicore_score": 475,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 197,
+      "name": "Samsung Galaxy Grand 2",
+      "description": "Qualcomm MSM8226 Snapdragon 400 @ 1.2 GHz",
+      "samples": 12,
+      "score": 64,
+      "multicore_score": 229,
+      "icon": "samsung-galaxy-grand-2",
+      "family": "Samsung"
+    },
+    {
+      "id": 298,
+      "name": "Xiaomi Mi Note",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 43,
+      "score": 156,
+      "multicore_score": 542,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 545,
+      "name": "LG Aristo 2",
+      "description": "Qualcomm Snapdragon 425 @ 1.4 GHz",
+      "samples": 32,
+      "score": 85,
+      "multicore_score": 254,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 623,
+      "name": "LG Stylo 3 Plus",
+      "description": "Qualcomm Snapdragon 435 @ 1.4 GHz",
+      "samples": 29,
+      "score": 100,
+      "multicore_score": 369,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 96,
+      "name": "HTC One",
+      "description": "Qualcomm Snapdragon 600 @ 1.7 GHz",
+      "samples": 29,
+      "score": 106,
+      "multicore_score": 380,
+      "icon": "htc-one",
+      "family": "HTC"
+    },
+    {
+      "id": 221,
+      "name": "Motorola Moto G3",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.4 GHz",
+      "samples": 21,
+      "score": 94,
+      "multicore_score": 324,
+      "icon": "moto-moto-g3",
+      "family": "Motorola"
+    },
+    {
+      "id": 778,
+      "name": "Samsung Galaxy J",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 11,
+      "score": 149,
+      "multicore_score": 522,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 174,
+      "name": "Samsung Galaxy S4 Duos",
+      "description": "Qualcomm Snapdragon 400 @ 1.7 GHz",
+      "samples": 5,
+      "score": 108,
+      "multicore_score": 209,
+      "icon": "samsung-galaxy-s-4-mini",
+      "family": "Samsung"
+    },
+    {
+      "id": 193,
+      "name": "Sony Xperia Z3",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 21,
+      "score": 148,
+      "multicore_score": 502,
+      "icon": "sony-xperia-z3",
+      "family": "Sony"
+    },
+    {
+      "id": 595,
+      "name": "Samsung Galaxy S5 LTE-A",
+      "description": "Qualcomm APQ8084 Snapdragon 805 @ 2.5 GHz",
+      "samples": 8,
+      "score": 155,
+      "multicore_score": 493,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 477,
+      "name": "Samsung Galaxy J7 (2016)",
+      "description": "Qualcomm Snapdragon 617 @ 1.6 GHz",
+      "samples": 168,
+      "score": 113,
+      "multicore_score": 419,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 508,
+      "name": "Samsung Galaxy S5 Duos",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 10,
+      "score": 160,
+      "multicore_score": 453,
+      "icon": "samsung ",
+      "family": "Samsung"
+    },
+    {
+      "id": 577,
+      "name": "Samsung Galaxy J3 Prime",
+      "description": "Samsung Exynos 7570 @ 1.4 GHz",
+      "samples": 50,
+      "score": 98,
+      "multicore_score": 307,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 130,
+      "name": "Samsung Galaxy S4",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 61,
+      "score": 148,
+      "multicore_score": 462,
+      "icon": "samsung-galaxy-s-4",
+      "family": "Samsung"
+    },
+    {
+      "id": 731,
+      "name": "Samsung Galaxy Tab 4 10.1",
+      "description": "Qualcomm Snapdragon 400 @ 1.2 GHz",
+      "samples": 10,
+      "score": 64,
+      "multicore_score": 240,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 199,
+      "name": "Samsung Galaxy S4 Value Edition",
+      "description": "Qualcomm Snapdragon 600 @ 1.9 GHz",
+      "samples": 20,
+      "score": 104,
+      "multicore_score": 333,
+      "icon": "samsung-galaxy-s4-value-edition",
+      "family": "Samsung"
+    },
+    {
+      "id": 114,
+      "name": "Sony Xperia Z1",
+      "description": "Qualcomm Snapdragon 800 @ 2.2 GHz",
+      "samples": 17,
+      "score": 146,
+      "multicore_score": 438,
+      "icon": "sony-xperia-z1",
+      "family": "Sony"
+    },
+    {
+      "id": 295,
+      "name": "Samsung Galaxy S5 Neo",
+      "description": "Samsung Exynos 7580 Octa @ 1.6 GHz",
+      "samples": 61,
+      "score": 108,
+      "multicore_score": 405,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 205,
+      "name": "Samsung Galaxy S5 Mini",
+      "description": "Samsung Exynos 3470 @ 1.4 GHz",
+      "samples": 15,
+      "score": 73,
+      "multicore_score": 242,
+      "icon": "samsung-galaxy-s5-mini",
+      "family": "Samsung"
+    },
+    {
+      "id": 748,
+      "name": "LG G Pro 2",
+      "description": "Qualcomm Snapdragon 800 @ 2.3 GHz",
+      "samples": 8,
+      "score": 142,
+      "multicore_score": 461,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 698,
+      "name": "Sony Xperia SP",
+      "description": "Qualcomm Snapdragon S4 MSM8960T Pro @ 1.7 GHz",
+      "samples": 12,
+      "score": 109,
+      "multicore_score": 196,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 165,
+      "name": "LG G Pad 8.3",
+      "description": "Qualcomm Snapdragon 600 @ 1.7 GHz",
+      "samples": 20,
+      "score": 101,
+      "multicore_score": 251,
+      "icon": "lg-g-pad-8-3",
+      "family": "LG"
+    },
+    {
+      "id": 759,
+      "name": "Motorola Moto C",
+      "description": "Mediatek MT6737 @ 1.1 GHz",
+      "samples": 25,
+      "score": 69,
+      "multicore_score": 219,
+      "icon": "motorola",
+      "family": "Motorola"
+    },
+    {
+      "id": 301,
+      "name": "Xiaomi Mi 4",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 12,
+      "score": 128,
+      "multicore_score": 434,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 218,
+      "name": "OnePlus X",
+      "description": "Qualcomm MSM8974AB Snapdragon 801 @ 2.3 GHz",
+      "samples": 26,
+      "score": 141,
+      "multicore_score": 466,
+      "icon": "oneplus-x",
+      "family": "OnePlus"
+    },
+    {
+      "id": 196,
+      "name": "Samsung Galaxy S3 Neo",
+      "description": "Qualcomm MSM8226 Snapdragon 400 @ 1.4 GHz",
+      "samples": 22,
+      "score": 68,
+      "multicore_score": 252,
+      "icon": "samsung-galaxy-s3-neo",
+      "family": "Samsung"
+    },
+    {
+      "id": 771,
+      "name": "LG Stylus 2",
+      "description": "Qualcomm MSM8916 Snapdragon 410 @ 1.2 GHz",
+      "samples": 5,
+      "score": 83,
+      "multicore_score": 280,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 268,
+      "name": "Xiaomi MI 4LTE",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 5,
+      "score": 131,
+      "multicore_score": 394,
+      "icon": "xiaomi",
+      "family": "Xiaomi"
+    },
+    {
+      "id": 91,
+      "name": "Samsung Nexus 10",
+      "description": "Samsung Exynos 5250 @ 1.7 GHz",
+      "samples": 7,
+      "score": 157,
+      "multicore_score": 285,
+      "icon": "samsung-nexus-10",
+      "family": "Samsung"
+    },
+    {
+      "id": 344,
+      "name": "Lenovo ZUK Z1",
+      "description": "Qualcomm MSM8974AC Snapdragon 801 @ 2.5 GHz",
+      "samples": 16,
+      "score": 153,
+      "multicore_score": 493,
+      "icon": "lenovo",
+      "family": "Lenovo"
+    },
+    {
+      "id": 558,
+      "name": "LG Stylus 2 Plus",
+      "description": "Qualcomm Snapdragon 430 @ 1.4 GHz",
+      "samples": 5,
+      "score": 100,
+      "multicore_score": 345,
+      "icon": "lg",
+      "family": "LG"
+    },
+    {
+      "id": 994,
+      "name": "OnePlus 7 Pro 5G",
+      "description": "Qualcomm Snapdragon 855 @ 1.8 GHz",
+      "samples": 1005,
+      "score": 734,
+      "multicore_score": 2704,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 195,
+      "name": "Samsung Galaxy Alpha",
+      "description": "Samsung Exynos 5430 @ 1.3 GHz",
+      "samples": 6,
+      "score": 171,
+      "multicore_score": 515,
+      "icon": "samsung-galaxy-alpha",
+      "family": "Samsung"
+    },
+    {
+      "id": 712,
+      "name": "Samsung Galaxy Note Pro 12.2",
+      "description": "Exynos 5 Octa 5420 @ 1.9 GHz",
+      "samples": 5,
+      "score": 160,
+      "multicore_score": 465,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 70,
+      "name": "iPad (8th generation)",
+      "description": "Apple A12 Bionic @ 2.5 GHz",
+      "samples": 2811,
+      "score": 1111,
+      "multicore_score": 2433,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 71,
+      "name": "iPhone 12 Pro",
+      "description": "Apple A14 Bionic @ 3.0 GHz",
+      "samples": 24923,
+      "score": 1587,
+      "multicore_score": 3946,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 72,
+      "name": "iPhone 12",
+      "description": "Apple A14 Bionic @ 3.0 GHz",
+      "samples": 16501,
+      "score": 1585,
+      "multicore_score": 3967,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 73,
+      "name": "iPad Air (4th generation)",
+      "description": "Apple A14 Bionic @ 3.0 GHz",
+      "samples": 4776,
+      "score": 1585,
+      "multicore_score": 4209,
+      "icon": "apple",
+      "family": "iPad"
+    },
+    {
+      "id": 159,
+      "name": "Motorola Moto G",
+      "description": "Qualcomm Snapdragon 400 @ 1.2 GHz",
+      "samples": 5,
+      "score": 67,
+      "multicore_score": 214,
+      "icon": "motorola-moto-g",
+      "family": "Motorola"
+    },
+    {
+      "id": 995,
+      "name": "Samsung Galaxy Note20 Ultra",
+      "description": "Samsung Exynos 990 @ 2.0 GHz",
+      "samples": 32032,
+      "score": 788,
+      "multicore_score": 2631,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 996,
+      "name": "Samsung Galaxy Note20 Ultra 5G",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 36712,
+      "score": 894,
+      "multicore_score": 3022,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 997,
+      "name": "ASUS ROG Phone 3",
+      "description": "Qualcomm Snapdragon 865+ @ 1.8 GHz",
+      "samples": 9070,
+      "score": 952,
+      "multicore_score": 3247,
+      "icon": "asus",
+      "family": "ASUS"
+    },
+    {
+      "id": 998,
+      "name": "OnePlus Nord",
+      "description": "Qualcomm Snapdragon 765G @ 1.8 GHz",
+      "samples": 12402,
+      "score": 604,
+      "multicore_score": 1885,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 999,
+      "name": "Samsung Galaxy S20 FE 5G",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 14686,
+      "score": 810,
+      "multicore_score": 2975,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1000,
+      "name": "Samsung Galaxy S20 FE",
+      "description": "Samsung Exynos 990 @ 2.0 GHz",
+      "samples": 8701,
+      "score": 732,
+      "multicore_score": 2494,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1001,
+      "name": "Samsung Galaxy M31",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 5657,
+      "score": 324,
+      "multicore_score": 1208,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1002,
+      "name": "Samsung Galaxy M21",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 5777,
+      "score": 326,
+      "multicore_score": 1205,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1003,
+      "name": "Samsung Galaxy M51",
+      "description": "Qualcomm Snapdragon 730G @ 1.8 GHz",
+      "samples": 5782,
+      "score": 516,
+      "multicore_score": 1649,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1004,
+      "name": "Samsung Galaxy Tab S7+",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 4116,
+      "score": 937,
+      "multicore_score": 2837,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1005,
+      "name": "Samsung Galaxy A21s",
+      "description": "Samsung Exynos 850 @ 2.0 GHz",
+      "samples": 3495,
+      "score": 173,
+      "multicore_score": 989,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1006,
+      "name": "Samsung Galaxy Tab S7",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 3733,
+      "score": 922,
+      "multicore_score": 3015,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1007,
+      "name": "Samsung Galaxy Z Fold2 5G",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 5746,
+      "score": 899,
+      "multicore_score": 3008,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1008,
+      "name": "Samsung Galaxy Tab S6 Lite",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 2006,
+      "score": 333,
+      "multicore_score": 1217,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1009,
+      "name": "Samsung Galaxy M31s",
+      "description": "Samsung Exynos 9611 @ 1.7 GHz",
+      "samples": 2268,
+      "score": 317,
+      "multicore_score": 1214,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1010,
+      "name": "Google Pixel 5",
+      "description": "Qualcomm Snapdragon 765G @ 1.8 GHz",
+      "samples": 3755,
+      "score": 580,
+      "multicore_score": 1569,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 1012,
+      "name": "Google Pixel 4a 5G",
+      "description": "Qualcomm Snapdragon 765G @ 1.8 GHz",
+      "samples": 1505,
+      "score": 579,
+      "multicore_score": 1556,
+      "icon": "google",
+      "family": "Google"
+    },
+    {
+      "id": 1013,
+      "name": "Samsung Galaxy A31",
+      "description": "Mediatek MT6768 Helio P65 @ 1.7 GHz",
+      "samples": 3785,
+      "score": 326,
+      "multicore_score": 1157,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1014,
+      "name": "Samsung Galaxy Note20",
+      "description": "Samsung Exynos 990 @ 2.0 GHz",
+      "samples": 1636,
+      "score": 825,
+      "multicore_score": 2615,
+      "icon": "samsung",
+      "family": "Samsung"
+    },
+    {
+      "id": 1015,
+      "name": "OnePlus 8T",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 10458,
+      "score": 872,
+      "multicore_score": 3056,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 1016,
+      "name": "OnePlus Nord N10 5G",
+      "description": "Qualcomm Snapdragon 690 5G @ 1.7 GHz",
+      "samples": 472,
+      "score": 602,
+      "multicore_score": 1807,
+      "icon": "oneplus",
+      "family": "OnePlus"
+    },
+    {
+      "id": 1017,
+      "name": "Sony Xperia 1 II",
+      "description": "Qualcomm Snapdragon 865 @ 1.8 GHz",
+      "samples": 1822,
+      "score": 815,
+      "multicore_score": 2923,
+      "icon": "sony",
+      "family": "Sony"
+    },
+    {
+      "id": 74,
+      "name": "iPhone 12 Mini",
+      "description": "Apple A14 Bionic @ 3.0 GHz",
+      "samples": 6882,
+      "score": 1586,
+      "multicore_score": 3962,
+      "icon": "apple",
+      "family": "iPhone"
+    },
+    {
+      "id": 75,
+      "name": "iPhone 12 Pro Max",
+      "description": "Apple A14 Bionic @ 3.0 GHz",
+      "samples": 29964,
+      "score": 1591,
+      "multicore_score": 4105,
+      "icon": "apple",
+      "family": "iPhone"
+    }
+  ]
+}
