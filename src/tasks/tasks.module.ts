@@ -1,7 +1,10 @@
 import { Module } from '@nestjs/common';
 import { TasksService } from './tasks.service';
 
+import { TypeOrmModule } from '@nestjs/typeorm';
+import { Phone } from '../scrapper/phone.entity';
 @Module({
-    providers: [TasksService],
+  imports: [TypeOrmModule.forFeature([Phone])],
+  providers: [TasksService],
 })
-export class TasksModule { }
+export class TasksModule {}
