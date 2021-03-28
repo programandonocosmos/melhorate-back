@@ -1,14 +1,14 @@
-import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
+import { Module } from "@nestjs/common";
+import { AppController } from "./app.controller";
+import { AppService } from "./app.service";
 
-import { TasksModule } from './tasks/tasks.module';
-import { ScheduleModule } from '@nestjs/schedule';
+import { TasksModule } from "./tasks/tasks.module";
+import { ScheduleModule } from "@nestjs/schedule";
 
-import { TypeOrmModule } from '@nestjs/typeorm';
-import { Phone } from './scrapper/phone.entity';
+import { TypeOrmModule } from "@nestjs/typeorm";
+import { Phone } from "./scrapper/phone.entity";
 
-import { ConfigModule, ConfigService } from '@nestjs/config';
+import { ConfigModule, ConfigService } from "@nestjs/config";
 
 @Module({
   imports: [
@@ -16,12 +16,12 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
     TypeOrmModule.forRootAsync({
       imports: [ConfigModule],
       useFactory: (configService: ConfigService) => ({
-        type: 'postgres',
-        host: configService.get('DB_HOST'),
-        port: +configService.get<number>('DB_PORT'),
-        username: configService.get('DB_USER'),
-        password: configService.get('DB_PASS'),
-        database: configService.get('DB_NAME'),
+        type: "postgres",
+        host: configService.get("DB_HOST"),
+        port: +configService.get<number>("DB_PORT"),
+        username: configService.get("DB_USER"),
+        password: configService.get("DB_PASS"),
+        database: configService.get("DB_NAME"),
         entities: [Phone],
         synchronize: true,
       }),

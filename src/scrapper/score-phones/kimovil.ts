@@ -1,27 +1,27 @@
-const axios = require('axios');
+const axios = require("axios");
 
-import type Cheerio from 'cheerio';
-const cheerio = require('cheerio') as typeof Cheerio;
+import type Cheerio from "cheerio";
+const cheerio = require("cheerio") as typeof Cheerio;
 
-const encoding = 'lowercase-';
+const encoding = "lowercase-";
 
 const searchUrl = `https://www.kimovil.com/pt/comparar-celulares/`;
 const XHRSearchUrl =
-  'https://www.kimovil.com/pt/comparar-celulares/name.xiaomi,page.1?xhr=1';
+  "https://www.kimovil.com/pt/comparar-celulares/name.xiaomi,page.1?xhr=1";
 
 export const searchInKimovil = async (
   term: string,
-  page: number,
+  page: number
 ): Promise<{ score?: string; deviceName?: string }> => {
   const rawResult = await axios.get(`${searchUrl}name.${term}`);
   const result: string = rawResult.data;
   const phoneLinkRegex = new RegExp(
-    'href="https://www.kimovil.com/pt/onde-comprar-.+([a-z])+#',
+    'href="https://www.kimovil.com/pt/onde-comprar-.+([a-z])+#'
   );
-  const multiDeviceNamesRegex = new RegExp('data-device="(\w+-)+\w+"');
+  const multiDeviceNamesRegex = new RegExp('data-device="(w+-)+w+"');
 
   const regexResults = result.match(phoneLinkRegex);
-  const deviceLink = regexResults[0].replace('href="', '');
+  const deviceLink = regexResults[0].replace('href="', "");
   const multiDeviceNames = result.match(multiDeviceNamesRegex);
   const uniqueDeviceNames = [...new Set(multiDeviceNames)];
   console.log(uniqueDeviceNames);
@@ -37,10 +37,10 @@ export const searchInKimovil = async (
   // console.log(grandFatherElement.html());
   // const linkToPhone = $('.device-link').attr('href');
   const deviceName = deviceLink.replace(
-    'https://www.kimovil.com/pt/onde-comprar-',
-    '',
+    "https://www.kimovil.com/pt/onde-comprar-",
+    ""
   );
-  console.log('link to phone: ', deviceLink, 'device name: ', deviceName);
+  console.log("link to phone: ", deviceLink, "device name: ", deviceName);
 
   if (!deviceLink) return {};
   let rawPhonePage;
@@ -53,7 +53,7 @@ export const searchInKimovil = async (
 
   const phonePage = rawPhonePage.data;
   $ = cheerio.load(phonePage);
-  const rawAntutuScore = $('tbody > tr > td > a  >div').text();
+  const rawAntutuScore = $("tbody > tr > td > a  >div").text();
   const scoreRegex = /\d+.\d\d\d+/gm;
   console.log(rawAntutuScore);
   const [phoneScore] = rawAntutuScore.match(scoreRegex);

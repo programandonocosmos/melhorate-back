@@ -1,4 +1,4 @@
-import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn } from "typeorm";
 
 type IPhone = {
   brand: string;
@@ -10,7 +10,7 @@ type IPhone = {
 
 @Entity()
 class Phone implements IPhone {
-  @PrimaryGeneratedColumn('uuid')
+  @PrimaryGeneratedColumn("uuid")
   id: number;
 
   @Column()

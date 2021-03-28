@@ -1,22 +1,22 @@
-import axios from 'axios';
-import type Cheerio from 'cheerio';
-const cheerio = require('cheerio');
+import axios from "axios";
+import type Cheerio from "cheerio";
+const cheerio = require("cheerio");
 // const cheerio = require('cheerio') as typeof Cheerio;
-import fs from 'fs';
+import fs from "fs";
 export const getGMSScores = async () => {
   const rawData = await axios.get(
-    'https://www.gsmarena.com/benchmark-test.php3',
+    "https://www.gsmarena.com/benchmark-test.php3"
   );
   const htmlData = rawData.data;
   const $ = cheerio.load(htmlData);
-  const scoreTable = $('#review-body > table.keywords.persist-area > tbody')
-    .find('tr')
+  const scoreTable = $("#review-body > table.keywords.persist-area > tbody")
+    .find("tr")
     .toArray()
     .map((element, index) => {
       const phoneName = $(element.firstChild).text();
 
       const [benchA, benchB] = $(element)
-        .find('b')
+        .find("b")
         .toArray()
         .map((element) => $(element).text());
 

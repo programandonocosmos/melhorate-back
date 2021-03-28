@@ -1,8 +1,8 @@
-import getPhones from './getPhonesMock';
-import axios from 'axios';
-import http from 'http'; // or 'https' for https:// URLs
+import getPhones from "./getPhonesMock";
+import axios from "axios";
+import http from "http"; // or 'https' for https:// URLs
 
-const benchmarkSites = ['geekbench', 'antutu'];
+const benchmarkSites = ["geekbench", "antutu"];
 // TODO: Implement decent cache
 // const cacheGeekbenchInfo = () => {
 //   const file = fs.createWriteStream('mobile-benchmarks.json');
@@ -16,10 +16,10 @@ const benchmarkSites = ['geekbench', 'antutu'];
 
 export const getInfoFromGeekbech = async (phoneName: string) => {
   //cacheGeekbenchInfo();
-  console.log('searching ', phoneName, '...');
+  console.log("searching ", phoneName, "...");
   try {
     const benchmarks = await axios.get<{ devices: any[] }>(
-      'https://browser.geekbench.com/mobile-benchmarks.json',
+      "https://browser.geekbench.com/mobile-benchmarks.json"
     );
 
     const phonesScores = benchmarks.data.devices.reduce((acc, device) => {
@@ -28,7 +28,7 @@ export const getInfoFromGeekbech = async (phoneName: string) => {
 
     if (phonesScores[phoneName]) return phonesScores[phoneName];
   } catch (err) {
-    console.log('deu bosta');
+    console.log("deu bosta");
   }
 };
 
@@ -39,7 +39,7 @@ export const scorePhones = async () => {
     return getInfoFromGeekbech(phone.name);
   });
   const results = await Promise.all(phonesHashMap);
-  console.log('phonesHashMap ', results);
+  console.log("phonesHashMap ", results);
 
   return results;
 };
