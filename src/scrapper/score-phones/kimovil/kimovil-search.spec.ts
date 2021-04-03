@@ -1,4 +1,4 @@
-import { searchInKimovil } from "./kimovil";
+import { searchInKimovil } from "../kimovil";
 
 describe("searchInKimovil", () => {
   it("should the antutu score of MI A3", async () => {

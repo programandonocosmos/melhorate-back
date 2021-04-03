@@ -1,7 +1,6 @@
-const axios = require("axios");
+import axios from "axios";
 
-import type Cheerio from "cheerio";
-const cheerio = require("cheerio") as typeof Cheerio;
+import cheerio from "cheerio";
 
 const encoding = "lowercase-";
 
@@ -26,16 +25,6 @@ export const searchInKimovil = async (
   const uniqueDeviceNames = [...new Set(multiDeviceNames)];
   console.log(uniqueDeviceNames);
   let $ = cheerio.load(result);
-  // const deviceElement = $('.open-newtab');
-  // const deviceName = deviceElement.text();
-  // const grandFatherElement = deviceElement
-  //   .parent()
-  //   .parent()
-  //   .parent()
-  //   .children()
-  //   .children();
-  // console.log(grandFatherElement.html());
-  // const linkToPhone = $('.device-link').attr('href');
   const deviceName = deviceLink.replace(
     "https://www.kimovil.com/pt/onde-comprar-",
     ""
